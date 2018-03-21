@@ -1,6 +1,6 @@
-# Industry recommendations and requests for academic data science programs
+# Industry recommendations for academic data science programs
 
-[Brandon Rohrer, Facebook, Inc](brohrer@fb.com)
+Brandon Rohrer, Facebook, Inc (brohrer@fb.com)
 
 As industry data scientists, we are grateful for the growing number of academic programs in the field. It is a challenge to find enough candidates to fill out our teams and solve the problems we face. We welcome new entrants to the field, whether it is their first career or a second, and would like to help them get the best preparation possible.
 
