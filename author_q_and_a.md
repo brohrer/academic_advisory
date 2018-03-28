@@ -32,7 +32,7 @@ No.
 
 **Who can become an author?**
 
-If you are currently employed as a data scientist (regardless of your actual job title) in industry, we welcome your contribution.
+If you are currently or formerly employed as a data scientist (regardless of your actual job title) or are the manager of a data scientist, we welcome your contribution.
 
 **How do I become an author?**
 
