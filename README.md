@@ -6,7 +6,7 @@ As industry data scientists, we are grateful for the growing number of academic 
 
 
 Several of us have been invited to participate on the advisory boards of academic data science programs, and we want to share our collected insights as a resource to such programs anywhere.
-Two of the most common questions are indirectly about how to best prepare students: [**What precisely do industry data scientists do?**](what_ds_do.md) and [**What makes someone a good data scientist?**](strong_DS_skills.md)
+Two of the most common questions are indirectly about how to best prepare students: [**What precisely do industry data scientists do?**](what_DS_do.md) and [**What makes someone a good data scientist?**](strong_DS_skills.md)
 We've attempted to answer both of these in a way that can inform how you construct your degree program and your course material.
 We address the third most common question as well: [**How can we partner with companies?**](partnering.md)
 
