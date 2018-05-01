@@ -19,8 +19,7 @@ Brandeis Marshall, Spelman University (Brandeis.Marshall@spelman.edu)
 
 Dan Potter, Brown University (Daniel\_Potter@brown.edu)
 
-
-
+##
 
 **Disclaimer:** These represent the collected views of the individual authors and contributors,
 not necessarily those of their employers or institutions.
