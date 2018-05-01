@@ -8,6 +8,8 @@ Ginger Holt, Facebook (gingermholt@fb.com)
 
 Brandon Rohrer, Facebook (brohrer@fb.com)
 
+James Sorensen, LinkedIn ()
+
 
 ## Academic Contributors:
 
