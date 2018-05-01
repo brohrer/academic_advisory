@@ -1,5 +1,7 @@
 ## Data Scientist Authors:
 
+Hyrum Anderson, Endgame (hyrumanderson@gmail.com)
+
 Danielle Dean, Microsoft (Danielle.Dean@microsoft.com)
 
 Julie Farago (farago@verily.com)
