@@ -12,7 +12,7 @@ We address the third most common question as well: [**How can we partner with co
 
 ## A work in progress
 
-It is the authors' hope that this serve as a summary of an ongoing conversation. 
+It is the authors' hope that this serves as a summary of an ongoing conversation. 
 If you are part of an academic data science program and have other questions you would like to see answered here,
 reach out to Brandon Rohrer (brohrer@fb.com) or one of the other authors.
 If you work as a data scientist and would like to contribute, [we welcome your insights](author_q_and_a.md).
