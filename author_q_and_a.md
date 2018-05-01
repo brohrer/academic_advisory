@@ -8,8 +8,8 @@ Faculty and administrators of academic data science programs, in the broadest se
 
 The questions industry data scientists get most often from academia are
 
+* What does a data scientist in your company do?
 * What skills do our students need to be successful in your industry?
-* What subjects are critical? Which are optional?
 * How can our academic program best partner with your company to fill your staffing needs and employ our students?
 
 **How will this guidance document be used?**
