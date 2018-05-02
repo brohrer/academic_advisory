@@ -28,7 +28,7 @@ The set of tools a data scientist comes with doesn't matter as much as their abi
 Data scientists that are lacking in this area will be limited in what they can contribute. Most project work will be frustrating. (Thier teammates will be frustrated too.) 
 
 
-## 4. Learning through practice
+## 4. Ability to learning through practice
 
 The strongest data scientists are those who have a broad understanding of all the roles a data scientist can play and have deep skills in at least one.
 In our experience, these data scientists are the ones who have worked on realistic data science problems in several domains.
