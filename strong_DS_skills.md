@@ -1,29 +1,41 @@
-# What skills do exceptional candidates come with?
-include negative examples
+# What skills make data scientists exceptional?
 
-## Communication
-
-In their writing, presentataions and emails
-Focus on audience. What they know. What they need to know. What they care about.
-Communicating methods and results to a non-technical audience
+Beyond technical proficiency, there are several skills that a data scientist must have to excel.
 
 
+## 1. Communication
 
-## Breadth
+In their writing, presentations and emails strong data scientists are clear.
+They focus on the audience, considering what they already know, what they need to know and what they care about.
+They can explain their methods and results to a non-technical audience at the appropriate level of technical depth.
 
-Don't be afraid to cross roles. A rockstar is someone who drops the mic and walks out. We want an owner--someone who also folds the chairs, mops the bar, and turns off the lights.
+Data scientists that are lacking in this area fail to convey their work or persuade teammates and leaders of its importance.
 
 
-## Readiness to learn new tools, skills and domains
+## 2. Breadth
+
+Strong data scientists are not afraid to move between [roles](what_DS_do.md), say, migrating between data analysis, data engineering, modeling, and back, over the course of a project. Doing data analysis with an eye toward what the modeling capabilities are produces results that are more accurate, more useful and more timely.
+
+Data scientists that are lacking in this area might say "I'm a modeler. Data cleaning is a job for a data engineer."
+
+
+## 3. Readiness to learn new tools, skills and domains
 
 Data scientists have to learn new tools with each new position, and sometimes with each new project. There's no practical way to learn all the tools you will need before you need them.
 The only way to be prepared for this is get comfortable with the process of learning new tools. 
-Don't worry about tools. Wherever a student goes to work, they will have to learn new tools. A smaller set keeps the learning curve shorter, and minimizes the overhead in supporting them. It lets students spend more time learning the underlying skills.
+The set of tools a data scientist comes with doesn't matter as much as their ability to embrace new ones. Wherever a student goes to work, they will have to learn new tools.
+
+Data scientists that are lacking in this area will be limited in what they can contribute. Most project work will be frustrating. (Thier teammates will be frustrated too.) 
 
 
-## Learning through practice
+## 4. Learning through practice
 
 The strongest data scientists are those who have a broad understanding of all the roles a data scientist can play and have deep skills in at least one.
 In our experience, these data scientists are the ones who have worked on realistic data science problems in several domains.
 The skills required to work with data are tough to learn in the abstract. Concrete examples with rich context and ambiguity are powerful teachers. Applying the same skill in several different domains bestows a facility on the learner that is hard to get any other way. 
 
+Data scientist that are lacking in this area will be confused by the quirks of real data and overwhelmed with the challenges of using their skills on unfamiliar problems. 
+
+##
+
+A data scientist with a broad set of skills learned though practice, an eagerness to learn more and the ability to tell others about their work can be a powerful contributor.
