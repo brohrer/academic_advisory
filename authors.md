@@ -2,6 +2,8 @@
 
 Hyrum Anderson, Endgame (hyrumanderson@gmail.com)
 
+Peter Bull, DrivenData.org (peter@drivendata.org)
+
 Danielle Dean, Microsoft (Danielle.Dean@microsoft.com)
 
 Julie Farago (farago@verily.com)
