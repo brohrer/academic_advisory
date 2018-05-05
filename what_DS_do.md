@@ -18,55 +18,70 @@ There are several different skill families in this area, and their importance va
 **Research**
 Sifting through and organizing information that is already available, but dispersed.
 
-**Statistics**
-Several aspects of statistics are useful in interpreting information
+**Interpretation**
+Interpreting data and model results to answer the question. Several aspects of statistics are useful in interpreting information
 Hypothesis testing, A/B testing, significance
 
 **Visualization**
 
+**Aggregation/Summarization**
 
 
 
-## Data engineering
-
-**Extraction**
-
-**Transformation**
-
-Databases
-
-
-
-## Modeling
-
-**Statistics**
+## Data modeling
 
 **Model selection**
 
+**Model training and evaluation
+
 **Feature creation**
 
-
-## Machine learning
-
-Algorithms
-
+**Algorithm development**
 Computational complexity
 
-Optimization
+**Optimization**
 
 
-## Software engineering
-
-**Version control**
-
-**Programming**
-
-
-## Domain expertise
-
+## Data application
 Understanding what is possible, what is reasonable, what is unexpected, what has been tried before and with what results.
 Knowing how data is gathered, what it represents, the ways in which it is likely to be misrepresented.
 
 Translating a business need to a question with a quantitative answer
 
+**Domain expertise**
 
+**Question asking**
+
+**Data skepticism**
+
+**Results skepticism**
+
+
+## Data engineering
+
+**Software engineering**
+Version control, Programming
+
+**Data management**
+Schema design, Database design, pipeline consturction, 
+
+**Productionalization**
+Automation, scaling, system integration, robustification
+
+**Data collection**
+Instrumentation, logging
+
+
+## Data mechanics
+
+**Formatting**
+Type conversion, uniform representation, string manipulation
+
+**Value interpretation**
+dates, missing values, redundant labels, 
+
+**Data gathering**
+Scraping, streaming, 
+
+**Data combining**
+Joining, concatenating
