@@ -52,9 +52,11 @@ Translating a business need to a question with a quantitative answer
 
 **Question asking**
 
-**Data skepticism**
+**Skepticism**
+How can things fail? What did we not account for? What assumptions are faulty? About data and results.
 
-**Results skepticism**
+**Evaluation criteria**
+What is most important? Accuracy, cost, time trade-offs.
 
 
 ## Data engineering
