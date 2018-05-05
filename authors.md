@@ -12,7 +12,7 @@ Ginger Holt, Facebook (gingermholt@fb.com)
 
 Brandon Rohrer, Facebook (brohrer@fb.com)
 
-James Sorensen, LinkedIn ()
+James Sorensen, LinkedIn (jasorenson@linkedin.com)
 
 
 ## Academic Contributors:
