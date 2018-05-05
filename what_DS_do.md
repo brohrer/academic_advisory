@@ -65,10 +65,10 @@ What is most important? Accuracy, cost, time trade-offs.
 Version control, Programming
 
 **Data management**
-Schema design, Database design, pipeline consturction, 
+Schema design, Database design, pipeline construction, 
 
 **Productionalization**
-Automation, scaling, system integration, robustification
+Automation, scaling, system integration, robustification, parallelization
 
 **Data collection**
 Instrumentation, logging
