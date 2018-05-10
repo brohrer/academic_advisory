@@ -21,11 +21,9 @@ Sifting through and organizing information that is already available, but disper
 **Interpretation**
 Interpreting data and model results to answer the question. Several aspects of statistics are useful in interpreting information
 Hypothesis testing, A/B testing, significance
+Aggregration and summarization
 
 **Visualization**
-
-**Aggregation/Summarization**
-
 
 
 ## Data modeling
@@ -61,9 +59,6 @@ What is most important? Accuracy, cost, time trade-offs.
 
 ## Data engineering
 
-**Software engineering**
-Version control, Programming
-
 **Data management**
 Schema design, Database design, pipeline construction, 
 
@@ -72,6 +67,9 @@ Automation, scaling, system integration, robustification, parallelization
 
 **Data collection**
 Instrumentation, logging
+
+**Software engineering**
+Version control, Programming
 
 
 ## Data mechanics
