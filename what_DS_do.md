@@ -10,7 +10,7 @@ and have particularly strong skills in at least one of them.
 Here is one taxonomy of data science roles and a few representative skills for each.
 
 
-## Data analysis
+## Analysis
 
 Data analysis is a the process of turning raw information into knowledge that can be acted on. 
 There are several different skill families in this area, and their importance varies widely by domain.
@@ -26,7 +26,7 @@ Aggregration and summarization
 **Visualization**
 
 
-## Data modeling
+## Modeling
 
 **Model selection**
 
@@ -40,7 +40,7 @@ Computational complexity
 **Optimization**
 
 
-## Data application
+## Application
 Understanding what is possible, what is reasonable, what is unexpected, what has been tried before and with what results.
 Knowing how data is gathered, what it represents, the ways in which it is likely to be misrepresented.
 
@@ -57,7 +57,7 @@ How can things fail? What did we not account for? What assumptions are faulty? A
 What is most important? Accuracy, cost, time trade-offs.
 
 
-## Data engineering
+## Engineering
 
 **Data management**
 Schema design, Database design, pipeline construction, 
@@ -72,7 +72,7 @@ Instrumentation, logging
 Version control, Programming
 
 
-## Data mechanics
+## Mechanics
 
 **Formatting**
 Type conversion, uniform representation, string manipulation
