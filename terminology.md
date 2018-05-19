@@ -1,17 +1,38 @@
-## Data science
+## Data scientist job titles
 
 There seems to be no perfectly fitting word for the collection of skills and theory that allows one to extract answers to questions from raw information.
-*Data science* is the term most commonly applied by the community at large,
-but there are others, each suggesting a different emphasis:
-*analytics*,
-*business analytics*,
-*business intelligence*,
-*applied statistics*,
-*quantitative analysis*,
-*research scientist*,
-*data mining*. 
+*Data scientist* is the term most commonly applied by the community at large,
+but there are others, each suggesting a different emphasis
+([credit to this post by Lyft Engineering](https://eng.lyft.com/whats-in-a-name-ce42f419d16c) for most of these):
 
-*Machine learning* is the discipline of creating statistical models that data scientists use.
-It is closely related, but already has a relatively well defined set of tools and community.
-*Artificial intelligence* is also related, but has several interpretations,
-and is increasingly used as a synonym for machine learning.
+**applied scientist**,
+
+**applied statistician**,
+
+**business analyst**,
+
+**business intelligence analyst**,
+
+**data analyst**,
+
+**data miner**,
+
+**economist**,
+
+**machine learning engineer**,
+
+**machine learning scientist**,
+
+**operations research scientist**,
+
+**product analyst**,
+
+**product scientist**,
+
+**quantitative analyst**,
+
+**research scientist**,
+
+**research engineer**,
+
+**statistician**.
