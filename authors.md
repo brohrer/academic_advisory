@@ -1,5 +1,7 @@
 ## Data Scientist Authors:
 
+Ahmad Al-Kashef, Teradata (ahmad.alkashef@teradata.com)
+
 Hyrum Anderson, Endgame (hyrumanderson@gmail.com)
 
 Peter Bull, DrivenData.org (peter@drivendata.org)
