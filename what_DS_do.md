@@ -7,7 +7,8 @@ There are several groups of skills necessary.
 Successful data scientists have some aptitude across several of these areas
 and have particularly strong skills in at least one of them.
 
-Here is a taxonomy of data science skill groups and representative skills for each.
+DS skill groups can be broken out as analysis, modeling, engineering, and mechanics.
+Here are some representative skills in each group.
 
 
 ## Analysis
