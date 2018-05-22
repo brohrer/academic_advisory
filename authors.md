@@ -6,9 +6,11 @@ Peter Bull, DrivenData.org (peter@drivendata.org)
 
 Danielle Dean, Microsoft (Danielle.Dean@microsoft.com)
 
-Julie Farago (farago@verily.com)
+Julie Farago, Verily (farago@verily.com)
 
 Ginger Holt, Facebook (gingermholt@fb.com) 
+
+Michelle Keim, Pluralsight (michelle-keim@pluralsight.com)
 
 Brandon Rohrer, Facebook (brohrer@fb.com)
 
