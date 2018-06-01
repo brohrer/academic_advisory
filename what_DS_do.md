@@ -79,18 +79,23 @@ Version control, scaling, maintainability, optimization,
 
 ## **Mechanics** – the mundane skills needed to work with data in any capacity.
 
-Although they tend not to be the favorite part of anyone's job, the practicalities of working with data dominate the majority of our working ours. A facility and a willingness to do these tasks are a prerequisite for a strong data scientist.
+Although they tend not to be the favorite part of anyone's job, the practicalities of working with data occupy a large fraction of our working hours. A facility and a willingness to do these tasks are a prerequisite for a strong data scientist.
 
 ### Data Formatting
 
+There are many different ways to represent the same number or string in a computer. Checking for type consistency and performing **type conversion** is a regular activity. Related to that is the problem of ensuring **uniform representation** in a data set. It is not unheard of for a single data set to have many representations for the same value, for instance 1, 1.00, "1", "one", and "I". These must be unified before productive analysis can be performed.
 
-Type conversion, uniform representation, string manipulation
-
-### Data handling
-
-Querying, slicing, joining, concatenating
+Working with text data requires its own specialized toolbox for **string manipulation**. Searching, parsing, replacing, and comparing strings are all useful at one time or another. **Fixing errors** in data sets that have resulted from upstream processing (or your own!) is also commonplace. It is the source of data scientists' most horrific war stories.
 
 ### Value interpretation
 
-dates, missing values, redundant labels, 
+Closely related to uniform representation is the problem of value interpretation. **Dates and times** are notorious for having many representations and interpretations, for instance, being time zone ambiguous. Similarly, **units of measurement** can be missing or even inconsistent with column labels and documentation. Sometimes knowledge of how the data was collected and what it will be used for is necessary for detecting and resolving these discrepancies.
+
+The problem of how to handle **missing values** is particularly ticklish, requiring as much domain knowledge and instinctive judgement as can be managed. Sometimes the best course is to replace them with a mean value, sometimes with a zero, sometimes with a modeled estimate. Sometimes the best thing is to delete the observation or the feature entirely. It all depends on the nature of the data and the analysis goal.
+
+### Data handling
+
+After data is unified and cleaned up for use, it is usually still necessary to select subsets of it or combine it with other data. 
+**Querying and slicing** a data set to get just the observations or features needed is typically necessary. **Joining** two data sets is a powerful way to open up new insights, but requires careful thought to make the join meaningful and to do it in a way that doesn't result in an excessive computational burden.
+
 
