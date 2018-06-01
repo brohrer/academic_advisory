@@ -11,13 +11,11 @@ DS skill groups can be broken out as analysis, modeling, engineering, and mechan
 Here are some representative skills in each group.
 
 
-## Analysis
-
---The process of turning raw information into knowledge that can be acted on. 
+## **Analysis** – the process of turning raw information into knowledge that can be acted on. 
 
 ### Domain knowledge
 
-A DS that understands the application area deeply can understanding what is possible, what is reasonable, what is unexpected, what has been tried before and with what results.
+A DS that is familiar with an application area can understand what is possible, what is reasonable, what is unexpected, what has been tried before and with what results.
 They know how data is gathered, what it represents, the ways in which it is likely to be misrepresented.
 This enables them to **translate a business need to a question** with a quantitative answer.
 Their grasp of the big picture helps them understand what is most important when **making accuracy-cost-time trade-offs**. 
@@ -25,38 +23,46 @@ Their experience lets them **anticipate how things can fail**, catch effects tha
 
 ### Research
 
-Even after a problem is defined and a good quantitative question is formulated, **gathering the data** can require quite a bit of work and creativity. It can involve searching through known repostories, interviewing colleagues, delving deeply into documentation, and **sorting through data stores** to identify the relevant portions. If the data doesn't yet exist, research can also involve **designing and conducting experiments** to collect it.
+Even after a problem is defined and a good quantitative question is formulated, **gathering the data** can require quite a bit of work and creativity.
+It can involve searching through known repostories, interviewing colleagues, delving deeply into documentation, and **sorting through data stores** to identify the relevant portions. If the data doesn't yet exist, research can also involve **designing and conducting experiments** to collect it.
 
 ### Interpretation
 
-Statistical reasoning, aggregation, summarization, visualization
+Even after it is collected, data is not yet useful. Interpretation is the art of crossing the gap between stacks of numbers and what they actually signify.
+**Sumarization and aggregation** along appropriate dimensions is often required. Carefully selecting what to report is critical to clarity. Knowing what to omit is as as important as anything else.
+Answering the original quantitative question can require **statistical tools** like hypothesis testing, A/B testing, and confidence intervals.
+**Visualization** - turning data into a picture - is a powerful way to convey the message behind a table of numbers.
+For some use cases, a carefully constructed plot is all that is necessary to answer the question.  
 
-Interpreting data and model results to answer the question. Several aspects of statistics are useful in interpreting information
 
-Hypothesis testing, A/B testing, significance
+## **Modeling** – the process of using the data we have to estimate the data we wish we had.
 
-
-
-## Modeling
-
---The process of using the data we have to estimate the data we wish we had.
-
-### Unsupervised learning
-
-Clustering, factor analysis, anomaly detection
+Modeling gets by far the most attention of all DS skill groups, but in practice occupies the smallest part of our time. Nevertheless, it is necessary for answering some quantitative questions, and understanding a variety of modeling techniques gives a DS a powerful set of tools.
 
 ### Supervised learning
 
-Classification, regression, time-series prediction
+The most common type of modeling is supervised learning, meaning that an algorithm looks for patterns in a set of observations that has been labeled (previously evaluated or classified) in order to make predictions about another.
+When the predictions are categorical (for example, is an applicant likely to default on a loan, yes or no?), this is known as **classification**.
+When predictions are numerical (for example, what is the temperature likely to be tomorrow?), this is known as **regression**.
+In the special case where a sequence of earlier observations are used to make predictions about future ones, different approaches become useful. These are collectively called **time-series prediction**.
+
+### Unsupervised learning
+
+Sometimes the goal of modeling is to organize a set of things, such as customers, products, or transactions. When they haven't been explicitly labeled beforehand, this is called unsupervised learning.
+One way to do this is to break the things out into separate groups via **clustering**.
+Another is to find a few complex traits that concisely describe a thing, the way the four axes of the Myers-Briggs Type Indicator provides a shorthand for describing the immense complexity of human personality. This is known as **dimensionality reduction**.
+**Anomaly detection** can be implemented as unsupervised learning as well, in which the boundaries of normalcy are inferred from past experience, and any new experience that violates them is tagged as anomalous.
 
 ### Custom algorithm development
 
-Feature engineering, Computational complexity, numerical optimization
+In many cases, out of the box algorithms aren't adequate for answering the question that has been posed. This may be because there isn't enough data available to make use of naive machine learning methods, because the question being asked doesn't fit neatly within the specifications of existing tools, or because some *a priori* domain knowledge can be brought to bear.
+Sometimes exsiting machine learning methods need to be modified outside of their pre-packaged boundariesto accommodate the subtleties of the problem at hand.
 
+It is common to do some preparation work on data, even when using standard algorithms. **Feature engineering** is the practice of using existing features in a domain-savvy way to create other, more useful features. It can be as simple as subtracting a departure time from an arrival time to get transit time, or as complex as calculating the magnitude of two-dimensional spatial frequency components. It is not quite algorithm development, but it is algorithm replacement in the sense that it does some of the work of deep neural networks. It is particularly useful when data is limited and features cannot be learned by more sophisticated methods.
 
-## Engineering
+**Numerical optimization** is used to automatically adjust the parameters of a model to provide the best fit to the data provided, putting the "learning" in machine learning. Understanding the principles behind it is a requirement for rolling your own algorithms. Additionally, a practical grasp of **computational complexity** and big-O notation enables a modeler to avoid creating models that are far too slow to be useful.
 
---The process of making everything else work faster, more robustly, and at greater scale.
+## **Engineering** – the process of making everything else work faster, more robustly, and at greater scale.
 
 ### Data management
 
@@ -71,9 +77,7 @@ Automation, scaling, system integration, robustification, parallelization
 Version control, scaling, maintainability, optimization, 
 
 
-## Mechanics
-
---The mundane skills needed to work with data in any capacity.
+## **Mechanics** – the mundane skills needed to work with data in any capacity.
 
 ### Data Formatting
 
