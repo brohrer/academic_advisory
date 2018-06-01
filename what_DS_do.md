@@ -1,13 +1,13 @@
 # What do data scientists do in our companies?
 
-Data scientists (DS) are called by [lots of different names](terminology.md),
+Data scientists are called by [lots of different names](terminology.md),
 but they all have one thing in common: they use data to answer questions to support decisions.
 The process of doing this is varied and complex.
 There are several groups of skills necessary.
 Successful data scientists have some aptitude across several of these areas
 and have particularly strong skills in at least one of them.
 
-DS skill groups can be broken out as analysis, modeling, engineering, and mechanics.
+Data science skill groups can be broken out as analysis, modeling, engineering, and mechanics.
 Here are some representative skills in each group.
 
 
@@ -15,7 +15,7 @@ Here are some representative skills in each group.
 
 ### Domain knowledge
 
-A DS that is familiar with an application area can understand what is possible, what is reasonable, what is unexpected, what has been tried before and with what results.
+A data scientist that is familiar with an application area can understand what is possible, what is reasonable, what is unexpected, what has been tried before and with what results.
 They know how data is gathered, what it represents, the ways in which it is likely to be misrepresented.
 This enables them to **translate a business need to a question** with a quantitative answer.
 Their grasp of the big picture helps them understand what is most important when **making accuracy-cost-time trade-offs**. 
@@ -37,7 +37,7 @@ For some use cases, a carefully constructed plot is all that is necessary to ans
 
 ## **Modeling** – the process of using the data we have to estimate the data we wish we had.
 
-Modeling gets by far the most attention of all DS skill groups, but in practice occupies the smallest part of our time. Nevertheless, it is necessary for answering some quantitative questions, and understanding a variety of modeling techniques gives a DS a powerful set of tools.
+Modeling gets by far the most attention of all the data science skill groups, but in practice occupies the smallest part of our time. Nevertheless, it is necessary for answering some quantitative questions, and understanding a variety of modeling techniques gives a data scientist a powerful set of tools.
 
 ### Supervised learning
 
