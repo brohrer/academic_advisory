@@ -79,7 +79,10 @@ Version control, scaling, maintainability, optimization,
 
 ## **Mechanics** – the mundane skills needed to work with data in any capacity.
 
+Although they tend not to be the favorite part of anyone's job, the practicalities of working with data dominate the majority of our working ours. A facility and a willingness to do these tasks are a prerequisite for a strong data scientist.
+
 ### Data Formatting
+
 
 Type conversion, uniform representation, string manipulation
 
