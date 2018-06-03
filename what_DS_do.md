@@ -66,10 +66,13 @@ It is common to do some preparation work on data, even when using standard algor
 
 ### Data management
 
-Database design, pipeline construction, scraping, streaming
+When working with more data than can comfortably fit in memory, databases quickly become necessary, and the design, creation, maintenance, all other aspects of **database management** becomes an indispensible skill. **Pipeline construction**, that is, writing analyses that run on a regular basis, possibly across many processors, is also an invaluable skill for dealing with larger amounts of data.
+
+Automated **data collection** is another common task. It includes instrumentation, logging, web scraping, API queries, and interrogating data streams. 
 
 ### Production
 
+or running analyses that take more 
 Automation, scaling, system integration, robustification, parallelization
 
 ### Software engineering
