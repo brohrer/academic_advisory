@@ -72,13 +72,13 @@ Automated **data collection** is another common task. It includes instrumentatio
 
 ### Production
 
-or running analyses that take more 
-Automation, scaling, system integration, robustification, parallelization
+When models and analyses are intended for use within a product or an internal tool, extra steps are required. Manual data handling steps must be replaced with **automation**. 
+**System integration** is necessary in order to work smoothly with the rest of the existing stack.
+**Robustification** measures, such as rigorous error handling, fault tolerance, and graceful degradation keeps the system running smoothly and users happy.
 
 ### Software engineering
 
-Version control, scaling, maintainability, optimization, 
-
+Underlying everything a data engineer does are the core skills of software engineering. **Ensuring maintainability** through modular, well commented code and version control is fundamental. On many teams **collaborative development** practices, such as code reviews, pair coding, and agile development facilitate adoption. And it is likely that the nuts and bolts of **scaling** the computation will come in handy regularly. This includes optimization, profiling, and parallelization.
 
 ## **Mechanics** – the mundane skills needed to work with data in any capacity.
 
