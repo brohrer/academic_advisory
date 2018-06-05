@@ -32,8 +32,9 @@ This model can be modified to either be more or less instensive. A more involved
 Here are some other examples of how industry and academic programs have worked together in the past. 
 
 * Tech talks
+* Workshops
+* Hackathons
+* Company visits
 * Research grants
 * Sponsoring student organizations
-* Providing data and case studies
 * Research collaborations and joint publication
-
