@@ -21,6 +21,10 @@ James Sorensen, LinkedIn (jasorenson@linkedin.com)
 
 ## Academic Contributors:
 
+Sylvain Jaume, Harvard Extension School
+
+Jeff Leek, Johns Hopkins University
+
 Brandeis Marshall, Spelman University (Brandeis.Marshall@spelman.edu)
 
 Dan Potter, Brown University (Daniel\_Potter@brown.edu)
