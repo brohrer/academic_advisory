@@ -24,7 +24,7 @@ Their experience lets them **anticipate how things can fail**, catch effects tha
 ### Research
 
 Even after a problem is defined and a good quantitative question is formulated, **gathering the data** can require quite a bit of work and creativity.
-It can involve searching through known repostories, interviewing colleagues, delving deeply into documentation, and **sorting through data stores** to identify the relevant portions. If the data doesn't yet exist, research can also involve **designing and conducting experiments** to collect it.
+It can involve searching through known repositories, interviewing colleagues, delving deeply into documentation, and **sorting through data stores** to identify the relevant portions. If the data doesn't yet exist, research can also involve **designing and conducting experiments** to collect it.
 
 ### Interpretation
 
