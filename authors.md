@@ -21,7 +21,7 @@ James Sorensen, LinkedIn (jasorenson@linkedin.com)
 
 ## Academic Contributors:
 
-Sylvain Jaume, Harvard Extension School
+Sylvain Jaume, Harvard University
 
 Jeff Leek, Johns Hopkins University
 
