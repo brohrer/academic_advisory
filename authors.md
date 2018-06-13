@@ -21,9 +21,9 @@ James Sorensen, LinkedIn (jasorenson@linkedin.com)
 
 ## Academic Contributors:
 
-Sylvain Jaume, Harvard University
+Sylvain Jaume, Harvard University (sjaume@fas.harvard.edu)
 
-Jeff Leek, Johns Hopkins University
+Jeff Leek, Johns Hopkins University (jtleek@jhu.edu)
 
 Brandeis Marshall, Spelman University (Brandeis.Marshall@spelman.edu)
 
