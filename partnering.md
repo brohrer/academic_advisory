@@ -27,6 +27,8 @@ In a prototypical capstone engagement, a mentor might provide the following:
 
 This model can be modified to either be more or less instensive. A more involved mentor might meet with their team weekly. In a lighter engagement, a mentor might provide a question, but no data, and attend only the final presentations. The details of each mentoring experience are entrely up to the program and the mentor to negotiate, but there are many vatiations that have proven succesful.
 
+To get you started, here are [a set of use cases](use_cases.md) that crop up in industry.
+
 ## Other partnership modes
 
 Here are some other examples of how industry and academic programs have worked together in the past. 
