@@ -18,6 +18,12 @@
 ## Media
 * **Content recommendation**: given a set of recently viewed documents, return a set of documents ordered by relevance.
 
+## Medicine
+* **Detecting medical conditions in radiographs**: given a set of X-rays, determine whether each is indicative of the condition of interest.
+* **Detecting diabetic retinopathy**:
+  * Relevant data set: Kaggle hosts a [collection of retinal images](https://www.kaggle.com/c/diabetic-retinopathy-detection/data), each labeled with its retinopathy scale score.
+* **Predicting liklihood of medical condition**:
+
 ## Politics
 * **Voter turnout**: given an individual's voting history, predict whether they will vote in the next election.
 
