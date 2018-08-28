@@ -18,6 +18,8 @@ Brandon Rohrer, Facebook (brohrer@fb.com)
 
 James Sorensen, LinkedIn (jasorenson@linkedin.com)
 
+Katherine Zhao, Google
+
 
 ## Academic Contributors:
 
