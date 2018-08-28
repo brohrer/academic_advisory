@@ -21,6 +21,8 @@ James Sorensen, LinkedIn (jasorenson@linkedin.com)
 
 ## Academic Contributors:
 
+Michael Fenick, Broward College and Southern New Hampshire Univeristy (mfenick@broward.edu)
+
 Sylvain Jaume, Harvard University (sjaume@fas.harvard.edu)
 
 Jeff Leek, Johns Hopkins University (jtleek@jhu.edu)
