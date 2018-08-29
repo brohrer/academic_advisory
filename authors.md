@@ -18,7 +18,7 @@ Brandon Rohrer, Facebook (brohrer@fb.com)
 
 James Sorensen, LinkedIn (jasorenson@linkedin.com)
 
-Katherine Zhao, Google
+Katherine Zhao, Google (mzhao12@dons.usfca.edu)
 
 
 ## Academic Contributors:
