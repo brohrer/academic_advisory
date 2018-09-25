@@ -6,6 +6,9 @@
 ## Agriculture
 * **Yield prediction**: given crop type, soil type, soil treatment, temperature, and moisture, predict the weight in harvested grain. 
 
+## Customer service
+* **Request triage**: given request text and the customer's history with the company (purchases and previous communications) categorize the request by topic. 
+
 ## Finance
 * **Loan repayment**: given an individual's financial history, predict the likelihood that they will successfully repay a loan.
 
