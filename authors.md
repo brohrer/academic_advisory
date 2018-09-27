@@ -18,6 +18,8 @@ Michelle Keim, Pluralsight (michelle-keim@pluralsight.com)
 
 Ming Li, Amazon (mli@alumni.iastate.edu)
 
+Hui Lin, Netlify
+
 Brandon Rohrer, Facebook (brohrer@fb.com)
 
 James Sorensen, LinkedIn (jasorenson@linkedin.com)
