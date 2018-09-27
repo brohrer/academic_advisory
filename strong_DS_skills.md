@@ -26,7 +26,9 @@ The only way to be prepared for this is get comfortable with the process of lear
 The set of tools a data scientist comes with doesn't matter as much as their ability to embrace new ones.
 
 Data scientists that are lacking in this area will be limited in what they can contribute. Most project work will be frustrating. (Their teammates will be frustrated too.) 
-The solution is to adopt a willingness to feel dumb, also known as "a beginner's mindset". This helps navigate the uncomfortable start-up period when every step of working with a tool is unfamiliar.
+The solution is to adopt a willingness to feel dumb, also known as "a beginner's mindset".
+This helps navigate the uncomfortable start-up period when every step of working with a tool is unfamiliar.
+The beginner's mindset manifests itself as a curiosity about the field, the company, the products, and the customers. 
 
 
 # Success patterns
