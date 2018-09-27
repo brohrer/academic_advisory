@@ -12,6 +12,8 @@ Julie Farago, Verily (farago@verily.com)
 
 Ginger Holt, Facebook (gingermholt@fb.com) 
 
+Martha Gardner, General Electric (martha.gardner@ge.com)
+
 Michelle Keim, Pluralsight (michelle-keim@pluralsight.com)
 
 Ming Li, Amazon (mli@alumni.iastate.edu)
