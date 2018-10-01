@@ -18,7 +18,7 @@ Michelle Keim, Pluralsight (michelle-keim@pluralsight.com)
 
 Ming Li, Amazon (mli@alumni.iastate.edu)
 
-Hui Lin, Netlify
+Hui Lin, Netlify (longqiman@gmail.com)
 
 Brandon Rohrer, Facebook (brohrer@fb.com)
 
