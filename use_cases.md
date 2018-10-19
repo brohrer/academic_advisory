@@ -36,6 +36,9 @@
 
 ## Social networks
 * **Connection recommendation**: given an individual's current connections, return a set of potential connections ordered by relevance.
+### Relevant data sets
+* **[Facebook](https://snap.stanford.edu/data/ego-Facebook.html)** 'Circles' (or 'friends lists') from Facebook, collected from survey participants using the Facebook app. (2012)
+* **[Twitter](https://snap.stanford.edu/data/ego-Twitter.html)**:  'Circles' (or 'lists') from Twitter, crawled from public sources. (2012)
 
 ## Transportation
 * **Predictive maintenance**: given a vehicle's usage and maintenance history, predict a given failure is likely to next occur.
