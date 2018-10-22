@@ -36,6 +36,9 @@
 
 ### Relevant datasets
 * **[Instacart grocery purchases](https://www.instacart.com/datasets/grocery-shopping-2017)**: 3 Million Instacart Orders. (2017)
+* **[UK retailer transactions](https://www.kaggle.com/carrie1/ecommerce-data)** "This is a transactional data set which contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail.The company mainly sells unique all-occasion gifts. Many customers of the company are wholesalers." From UCI ML lab, hosted on Kaggle. (2011)
+* **[Sales by store](https://www.kaggle.com/manjeetsingh/retaildataset)** Historical sales data for 45 stores located in different regions. Hosted on Kaggle. (2013)
+* **[Black Friday sales](https://www.kaggle.com/mehdidag/black-friday)** 550,000 items, 100,000 customers. Hosted on Kaggle. (2018)
 
 ## Social networks
 * **Connection recommendation**: given an individual's current connections, return a set of potential connections ordered by relevance.
