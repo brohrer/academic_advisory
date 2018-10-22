@@ -34,6 +34,9 @@
 * **Product recommendation**: given a set of past purchases, return a set of products ordered by relevance.
 * **Demand forecasting**: given a history of purchases, make predictions for future purchase volumes over time.
 
+### Relevant datasets
+* **[Instacart grocery purchases](https://www.instacart.com/datasets/grocery-shopping-2017)**: 3 Million Instacart Orders. (2017)
+
 ## Social networks
 * **Connection recommendation**: given an individual's current connections, return a set of potential connections ordered by relevance.
 ### Relevant data sets
