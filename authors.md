@@ -39,9 +39,13 @@ Sylvain Jaume, Harvard University (sjaume@fas.harvard.edu)
 
 Jeff Leek, Johns Hopkins University (jtleek@jhu.edu)
 
+Allison Jones-Farmer, Miami University (farmerl2@miamioh.edu)
+
 Todd MacKenzie, Dartmouth Univeristy (Todd.A.MacKenzie@dartmouth.edu)
 
 Brandeis Marshall, Spelman University (Brandeis.Marshall@spelman.edu)
+
+Fadel Megahed, Miami University (megahefm@miamioh.edu)
 
 Dan Potter, Brown University (Daniel\_Potter@brown.edu)
 
