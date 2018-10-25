@@ -26,6 +26,7 @@
 * **Detecting diabetic retinopathy**: given a set of retinal images, categorize each with the severity of retinopathy.
   * Relevant data set: Kaggle hosts a [collection of retinal images](https://www.kaggle.com/c/diabetic-retinopathy-detection/data), each labeled with its retinopathy scale score.
 * **Predicting liklihood of medical condition**: given values for a set of patient risk factors, predict the likelihood that a given medical condition will manifest.
+* **Prediction of diabetes**: given features BMI, insulin level, age etc. predict if a person has diabetes or not. [Dataset link](https://www.kaggle.com/uciml/pima-indians-diabetes-database)
 
 ## Politics
 * **Voter turnout**: given an individual's voting history, predict whether they will vote in the next election.
