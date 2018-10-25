@@ -31,13 +31,15 @@ Katherine Zhao, Google (mzhao12@dons.usfca.edu)
 
 ## Academic Contributors:
 
-Michael Fenick, Broward College and Southern New Hampshire Univeristy (mfenick@broward.edu)
+Keith Drake, Dartmouth University (keith.m.drake@dartmouth.edu)
 
-Todd MacKenzie, Dartmouth Univeristy (Todd.A.MacKenzie@dartmouth.edu)
+Michael Fenick, Broward College and Southern New Hampshire Univeristy (mfenick@broward.edu)
 
 Sylvain Jaume, Harvard University (sjaume@fas.harvard.edu)
 
 Jeff Leek, Johns Hopkins University (jtleek@jhu.edu)
+
+Todd MacKenzie, Dartmouth Univeristy (Todd.A.MacKenzie@dartmouth.edu)
 
 Brandeis Marshall, Spelman University (Brandeis.Marshall@spelman.edu)
 
