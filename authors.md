@@ -33,6 +33,8 @@ Katherine Zhao, Google (mzhao12@dons.usfca.edu)
 
 Michael Fenick, Broward College and Southern New Hampshire Univeristy (mfenick@broward.edu)
 
+Todd MacKenzie, Dartmouth Univeristy (Todd.A.MacKenzie@dartmouth.edu)
+
 Sylvain Jaume, Harvard University (sjaume@fas.harvard.edu)
 
 Jeff Leek, Johns Hopkins University (jtleek@jhu.edu)
