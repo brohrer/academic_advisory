@@ -6,6 +6,12 @@
 ## Agriculture
 * **Yield prediction**: given crop type, soil type, soil treatment, temperature, and moisture, predict the weight in harvested grain. 
 
+## Correspondence
+* **Topic summarization**: given a set of messages, identify major topics.
+
+### Relevant data sets
+* **[Enron emails](https://www.cs.cmu.edu/~./enron/)**: a set of about 500K emails from Enron executives. Enron is a US energy company that was the subject of a federal investigation.
+
 ## Customer service
 * **Request triage**: given request text and the customer's history with the company (purchases and previous communications) categorize the request by topic. 
 
@@ -23,10 +29,11 @@
 
 ## Medicine
 * **Detecting medical conditions in radiographs**: given a set of X-rays, determine whether each is indicative of the condition of interest.
-* **Detecting diabetic retinopathy**: given a set of retinal images, categorize each with the severity of retinopathy.
-  * Relevant data set: Kaggle hosts a [collection of retinal images](https://www.kaggle.com/c/diabetic-retinopathy-detection/data), each labeled with its retinopathy scale score.
 * **Predicting liklihood of medical condition**: given values for a set of patient risk factors, predict the likelihood that a given medical condition will manifest.
-* **Prediction of diabetes**: given features BMI, insulin level, age etc. predict if a person has diabetes or not. [Dataset link](https://www.kaggle.com/uciml/pima-indians-diabetes-database)
+
+### Relevant data sets
+* **[Diabetic retinopathy images](https://www.kaggle.com/c/diabetic-retinopathy-detection/data)**: a collection of retinal images, each labeled with its retinopathy scale score.
+* **[Pima diabetes database](https://www.kaggle.com/uciml/pima-indians-diabetes-database)**: includes BMI, insulin level, age, number of pregnancies, and diabetes diagnosis from female patients of Pima Indian heritage. Hosted on Kaggle.
 
 ## Politics
 * **Voter turnout**: given an individual's voting history, predict whether they will vote in the next election.
@@ -35,10 +42,10 @@
 * **Product recommendation**: given a set of past purchases, return a set of products ordered by relevance.
 * **Demand forecasting**: given a history of purchases, make predictions for future purchase volumes over time.
 
-### Relevant datasets
+### Relevant data sets
 * **[Instacart grocery purchases](https://www.instacart.com/datasets/grocery-shopping-2017)**: 3 Million Instacart Orders. (2017)
 * **[UK retailer transactions](https://www.kaggle.com/carrie1/ecommerce-data)** "This is a transactional data set which contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail.The company mainly sells unique all-occasion gifts. Many customers of the company are wholesalers." From UCI ML lab, hosted on Kaggle. (2011)
-* **[Sales by store](https://www.kaggle.com/manjeetsingh/retaildataset)** Historical sales data for 45 stores located in different regions. Hosted on Kaggle. (2013)
+* **[Sales by store](https://www.kaggle.com/manjeetsingh/retaildataset)** historical sales data for 45 stores located in different regions. Hosted on Kaggle. (2013)
 * **[Black Friday sales](https://www.kaggle.com/mehdidag/black-friday)** 550,000 items, 100,000 customers. Hosted on Kaggle. (2018)
 
 ## Social networks
