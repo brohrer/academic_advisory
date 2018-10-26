@@ -32,9 +32,11 @@
 * **Predicting liklihood of medical condition**: given values for a set of patient risk factors, predict the likelihood that a given medical condition will manifest.
 
 ### Relevant data sets
-* **[Diabetic retinopathy images](https://www.kaggle.com/c/diabetic-retinopathy-detection/data)**: a collection of retinal images, each labeled with its retinopathy scale score.
-* **[Pima diabetes database](https://www.kaggle.com/uciml/pima-indians-diabetes-database)**: includes BMI, insulin level, age, number of pregnancies, and diabetes diagnosis from female patients of Pima Indian heritage. Hosted on Kaggle.
 * **[Breast Cancer Data Set](http://archive.ics.uci.edu/ml/datasets/Breast+Cancer)**: includes information about the breast cancer screening of several female patients. Hosted on UCI. 
+* **[Diabetic retinopathy images](https://www.kaggle.com/c/diabetic-retinopathy-detection/data)**: a collection of retinal images, each labeled with its retinopathy scale score.
+* **[The Human Microbiome Project](https://www.hmpdacc.org/)**: genetic sequences of microbes from hundreds of healthy individuals, across several different sites on the human body: nasal passages, oral cavity, skin, gastrointestinal tract, and urogenital tract.
+* **[MIMIC-III Hospital admissions](https://mimic.physionet.org/)**: 58,000 hospital admissions for 38,645 adults and 7,875 neonates. [Access instructions](https://towardsdatascience.com/getting-access-to-mimic-iii-hospital-database-for-data-science-projects-791813feb735)(2012) 
+* **[Pima diabetes database](https://www.kaggle.com/uciml/pima-indians-diabetes-database)**: includes BMI, insulin level, age, number of pregnancies, and diabetes diagnosis from female patients of Pima Indian heritage. Hosted on Kaggle.
 
 ## Politics
 * **Voter turnout**: given an individual's voting history, predict whether they will vote in the next election.
