@@ -35,6 +35,8 @@ Keith Drake, Dartmouth University (keith.m.drake@dartmouth.edu)
 
 Michael Fenick, Broward College and Southern New Hampshire Univeristy (mfenick@broward.edu)
 
+Jiang Gui, Dartmouth University (Jiang.Gui@dartmouth.edu)
+
 Sylvain Jaume, Harvard University (sjaume@fas.harvard.edu)
 
 Jeff Leek, Johns Hopkins University (jtleek@jhu.edu)
