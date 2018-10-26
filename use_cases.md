@@ -34,6 +34,7 @@
 ### Relevant data sets
 * **[Diabetic retinopathy images](https://www.kaggle.com/c/diabetic-retinopathy-detection/data)**: a collection of retinal images, each labeled with its retinopathy scale score.
 * **[Pima diabetes database](https://www.kaggle.com/uciml/pima-indians-diabetes-database)**: includes BMI, insulin level, age, number of pregnancies, and diabetes diagnosis from female patients of Pima Indian heritage. Hosted on Kaggle.
+* **[Breast Cancer Data Set](http://archive.ics.uci.edu/ml/datasets/Breast+Cancer)**: includes information about the breast cancer screening of several female patients. Hosted on UCI. 
 
 ## Politics
 * **Voter turnout**: given an individual's voting history, predict whether they will vote in the next election.
