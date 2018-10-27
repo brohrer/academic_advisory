@@ -63,3 +63,15 @@
 * **On-Time Performance**: Identify problematic parts of a transportation network causing delays, the root causes, and recommendations to improve on-time performance. 
 ### Relevant data sets
 * **[SBB Swiss Federal Railways On-Time Performance](https://github.com/crowdAI/train-schedule-optimisation-challenge-starter-kit)**: CrowdAI challenge and data set to optimize punctuality of train schedules
+
+## Cyber Security
+* **Privacy Preservance**
+* **Privacy Assurance**
+* **Intrusion Detection**
+* **Phishing Detection**
+
+### Relevant data sets
+* **[KDD CUP 99](http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html)**: The task is to develop to detect network intrusions that protects a computer network from unauthorized users, including perhaps insiders.  The intrusion detector learning task is to build a predictive model (i.e. a classifier) capable of distinguishing between _bad_ connections, called intrusions or attacks, and _good_ normal connections. The 1998 DARPA Intrusion Detection Evaluation Program was prepared and managed by MIT Lincoln Labs. The objective was to survey and evaluate research in intrusion detection.  A standard set of data to be audited, which includes a wide variety of intrusions simulated in a military network environment, was provided.  The 1999 KDD intrusion detection contest uses a version of this dataset.
+* **[NSL-KDD](https://www.unb.ca/cic/datasets/nsl.html)**: NSL-KDD is a data set suggested to solve some of the inherent problems of the KDD'99 data set. Although, this new version of the KDD data set still suffers from some of the problems discussed by McHugh and may not be a perfect representative of existing real networks, because of the lack of public data sets for network-based IDSs, the authors of this data set believe it still can be applied as an effective benchmark data set to help researchers compare different intrusion detection methods. Furthermore, the number of records in the NSL-KDD train and test sets are reasonable. This advantage makes it affordable to run the experiments on the complete set without the need to randomly select a small portion. Consequently, evaluation results of different research work will be consistent and comparable.
+* **[UNSW-NB15](https://www.unsw.adfa.edu.au/unsw-canberra-cyber/cybersecurity/ADFA-NB15-Datasets/)**: This data set is an advancement over the above-mentioned two data sets i.e. KDD CUP 99 and NSL-KDD. It captures more realistic features and way more instances than the other two. 
+* **[Phishing Websites](https://archive.ics.uci.edu/ml/datasets/phishing+websites)**: In this dataset, the authors shed light on the important features that have proved to be sound and effective in predicting phishing websites. In addition, they proposed some new features.
