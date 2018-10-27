@@ -62,4 +62,4 @@
 
 * **On-Time Performance**: Identify problematic parts of a transportation network causing delays, the root causes, and recommendations to improve on-time performance. 
 ### Relevant data sets
-* **[SBB Swiss Federal Railways On-Time Performance](SBB Swiss Federal Railways)**: CrowdAI challenge and data set to optimize punctuality of train schedules
+* **[SBB Swiss Federal Railways On-Time Performance](https://github.com/crowdAI/train-schedule-optimisation-challenge-starter-kit)**: CrowdAI challenge and data set to optimize punctuality of train schedules
