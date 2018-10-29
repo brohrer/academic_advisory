@@ -33,7 +33,7 @@ The beginner's mindset manifests itself as a curiosity about the field, the comp
 
 # Success patterns
 
-## 1. Learning through thorough practice
+## 1. Learning through practice
 
 The strongest data scientists are those who have a broad understanding of all the roles a data scientist can play and have deep skills in at least one.
 In our experience, these data scientists are the ones who have worked on realistic data science problems in several domains.
