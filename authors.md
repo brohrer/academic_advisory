@@ -22,6 +22,8 @@ Ming Li, Amazon (mli@alumni.iastate.edu)
 
 Hui Lin, Netlify (longqiman@gmail.com)
 
+Julie Novak, Netflix (julien@netflix.com)
+
 Brandon Rohrer, Facebook (brohrer@fb.com)
 
 James Sorensen, LinkedIn (jasorenson@linkedin.com)
