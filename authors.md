@@ -41,6 +41,8 @@ Sylvain Jaume, Harvard University (sjaume@fas.harvard.edu)
 
 Jeff Leek, Johns Hopkins University (jtleek@jhu.edu)
 
+Shaniqua Jones, Dartmouth University (shaniqua.a.jones@dartmouth.edu)
+
 Allison Jones-Farmer, Miami University (farmerl2@miamioh.edu)
 
 Todd MacKenzie, Dartmouth Univeristy (Todd.A.MacKenzie@dartmouth.edu)
