@@ -27,6 +27,9 @@
 ## Media
 * **Content recommendation**: given a set of recently viewed documents, return a set of documents ordered by relevance.
 
+### Relevant data sets
+* **[MovieLens 20M Dataset](https://www.kaggle.com/grouplens/movielens-20m-dataset)**: The datasets describe ratings and free-text tagging activities from MovieLens, a movie recommendation service. It contains 20000263 ratings and 465564 tag applications across 27278 movies. These data were created by 138493 users between January 09, 1995 and March 31, 2015. This dataset was generated on October 17, 2016. Some ideas worth exploring: 1. Which genres receive the highest ratings? How does this change over time? 2. Determine the temporal trends in the genres/tagging activity of the movies released
+
 ## Medicine
 * **Detecting medical conditions in radiographs**: given a set of X-rays, determine whether each is indicative of the condition of interest.
 * **Predicting liklihood of medical condition**: given values for a set of patient risk factors, predict the likelihood that a given medical condition will manifest.
