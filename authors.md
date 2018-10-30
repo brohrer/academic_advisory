@@ -16,6 +16,8 @@ Robert Horton, Microsoft (rhorton@microsoft.com)
 
 Martha Gardner, General Electric (martha.gardner@ge.com)
 
+Shaheen Gauher, CVS Health (shaheen2007@gmail.com)
+
 Michelle Keim, Pluralsight (michelle-keim@pluralsight.com)
 
 Ming Li, Amazon (mli@alumni.iastate.edu)
@@ -23,6 +25,8 @@ Ming Li, Amazon (mli@alumni.iastate.edu)
 Hui Lin, Netlify (longqiman@gmail.com)
 
 Julie Novak, Netflix (julien@netflix.com)
+
+Sayak Paul, DataCamp (spsayakpaul@gmail.com)
 
 Brandon Rohrer, Facebook (brohrer@fb.com)
 
