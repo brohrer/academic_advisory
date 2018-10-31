@@ -6,6 +6,11 @@
 ## Agriculture
 * **Yield prediction**: given crop type, soil type, soil treatment, temperature, and moisture, predict the weight in harvested grain. 
 
+## Astronomy
+
+### Relevant data sets
+* **[HyperLEDA](http://leda.univ-lyon1.fr/intro.html)**: a database and a collection of tools to study the physics of galaxies and cosmology. 
+
 ## Correspondence
 * **Topic summarization**: given a set of messages, identify major topics.
 
@@ -27,6 +32,13 @@
 
 ## Insurance
 * **Disaster modeling**: given the history of disaster occurrences, predict the likelihood that a similar disaster will occur again within a given time window.
+
+## Legal
+* **Topic retrieval**: given a topic, find documents and selections focused on it.
+* **Hierarchical topic modeling**: given a set of documents, find major topics discussed and the subtopics under each.
+
+### Relevant data sets
+* **[Caselaw Access Project](https://case.law/)**: includes all official, book-published United States case law — every volume designated as an official report of decisions by a court within the United States.
 
 ## Media
 * **Content recommendation**: given a set of recently viewed documents, return a set of documents ordered by relevance.
