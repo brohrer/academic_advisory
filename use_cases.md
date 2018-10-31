@@ -15,8 +15,12 @@
 ## Customer service
 * **Request triage**: given request text and the customer's history with the company (purchases and previous communications) categorize the request by topic. 
 
+## Economic development
+
 ## Finance
 * **Loan repayment**: given an individual's financial history, predict the likelihood that they will successfully repay a loan.
+
+## Humanitarian
 
 ## Information
 * **Search**: given a set of search terms, return a set of documents ordered by relevance. 
