@@ -4,6 +4,8 @@ Ahmad Al-Kashef, Teradata (ahmad.alkashef@teradata.com)
 
 Hyrum Anderson, Endgame (hyrumanderson@gmail.com)
 
+Angela Bassa, iRobot ([angelabassa.com/contact](https://www.angelabassa.com/contact))
+
 Peter Bull, DrivenData.org (peter@drivendata.org)
 
 Danielle Dean, Microsoft (Danielle.Dean@microsoft.com)
@@ -36,6 +38,8 @@ Katherine Zhao, Google (mzhao12@dons.usfca.edu)
 
 
 ## Academic Contributors:
+
+Lydia Chan, San Jose State University (lydia.chan@sjsu.edu)
 
 Keith Drake, Dartmouth University (keith.m.drake@dartmouth.edu)
 
