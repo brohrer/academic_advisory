@@ -10,6 +10,8 @@ Peter Bull, DrivenData.org (peter@drivendata.org)
 
 Danielle Dean, Microsoft (Danielle.Dean@microsoft.com)
 
+Isaac Faber, MatrixDS (isaac@matrixds.com)
+
 Julie Farago, Verily (farago@verily.com)
 
 Ginger Holt, Facebook (gingermholt@fb.com) 
