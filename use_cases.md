@@ -52,6 +52,16 @@
 ## Insurance
 * **Disaster modeling**: given the history of disaster occurrences, predict the likelihood that a similar disaster will occur again within a given time window.
 
+
+## Internet of Things
+* **Device health**: given a stream of device data, determine whether it is working as intended.
+* **Predictive maintenance**: given a stream of device data, anticipate when repair or maintenance will be necessary.
+* **Device comparisons**: given a collection of device data streams from two different hardware/software/environment conditions, determine which is working better.
+
+### Relevant data sets
+* **[Industrial Internet of Things Data](https://www.kaggle.com/pitasr/industrialiot): Industrial demand/response IoT data for IoT analytics.
+
+
 ## Legal
 * **Topic retrieval**: given a topic, find documents and selections focused on it.
 * **Hierarchical topic modeling**: given a set of documents, find major topics discussed and the subtopics under each.
