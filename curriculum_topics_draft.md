@@ -1,50 +1,53 @@
-For any programs seeking curriculum design ideas, here is a starting point.
+# Data science curriculum roadmap
 
-These curriculum outlines come from the compiled insights of the data scienst authors, the academic community contributors, and published course listings.
-These outlines assume a two-year masters program with the primary goal of preparing students for employment and continued career growth, although they can certainly be scaled up or down to fit the scope of other programs.
-
-## Foundations
+We venture to suggest a curriculum roadmap only after receiving multiple requests. As a group, we have spent the vast majority of our time in industry, although many of us have had spent time in one academic capacity or another.  What follows is a set of broad recommendations, and it will inevitably require a lot of adjustments in each case for implementation. Given that caveat, here are our curriculum recommendations. 
 
 ### More application than theory
 
-### More skills than tools
+We want to lead by emphasizing that the single most important factor in preparing students to apply their knowledge in an industry setting is application-centric learning. Working with realistic data to answer realistic questions is their best preparation. It grounds abstract concepts in hands-on experience, and it teaches data mechanics and data intuition at the same time, something that is impossible to do in isolation. 
 
-### More integration than isolation
-
-
-## Prerequisites
-
-Math
-Applied
-Statistical inference in the presence of partial data and violated assumptions
-
-Programming
-* Coding for data analysis
-
-
-## Three families of skills
-
-See What data scientists do
-
-### Analysis
-
-
-### Modeling
-
-
-### Engineering
-
+With that in mind, there are definitely a list of topics that prepare one well to practice data science. 
 
 ## Curriculum archetypes
 
-Mirror data scientist archetypes
+The types of data science and data centric academic programs closely mirror [the major skill areas](what_DS_do.md) we identified in our work. There are programs that emphasize **engineering**, programs that emphasize **analytics**, and programs that emphasize **modeling**.  The distinction between these is that analytics focuses on the question of what can we learn from our data, modeling focuses on the problem of estimating data we wish we had, and engineering focuses on how to make it all run faster,  more efficiently, and more robustly. 
 
-### General
+There are also **general data science programs** that cover all these areas to some degree. In addition there are quite a few **domain specific programs**, where a subset of engineering, analytics, and modeling skills specific to a given field are taught.
 
-### Analysis-focused
+The curriculum recommendations for each of these program archetypes will be different. However, all of them will share a core of foundational topics.  
 
-### Modeling-focused
+## Foundational topics
+1. Programming
+1. Statistics
+    1. Probability distributions
+    1. Hypothesis testing 
+1. Algebra 
 
-### Engineering-focused
 
-### Domain-focused
+## Analytics topics
+1. Advanced statistics
+1. Statistical programming
+1. Calculus
+1. Visualization
+
+## Engineering topics
+1. Software engineering
+1. Database design
+
+## Modeling topics
+1. Machine learning methods
+    1. Supervised
+    1. Unsupervised
+    1. Neural networks
+1. Algorithm design
+1. Optimization 
+
+
+#
+A general curriculum will include some aspects of the analytics, engineering, and modeling curricula, although perhaps not to the same depth. It is common for students to self select courses from any combination of the three areas.
+
+Curricula for domain specific programs look similar to a general program, except that topics, and even entire courses, will be focused on specific skills comment to the area. For instance, an actuarial-focused data analytics program would likely include  software tools most commonly used in insurance companies, time series prediction algorithms, and visualization methods that are accepted throughout the insurance industry. 
+
+Note that for each topic, there are many effective ways to split it into courses. The best way for your institution will depend on many factors, including length of term, hours per class, existing departmental boundaries and aptitudes, and the rate at which your students are expected to absorb information. These recommendations assume a two-year masters program with the primary goal of preparing students for employment and continued career growth, although they can certainly be scaled up or down to fit the scope of other programs.
+
+And it bears repeating, application-focused instruction will best prepare the students for professional positions. The more theory is grounded in concrete examples, and the more specific skills are exercised in the context of solving a larger problem, the deeper the student's understanding of how it works, and where to apply it. 
