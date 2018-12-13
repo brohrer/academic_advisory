@@ -24,29 +24,42 @@ Here are the major topics we suggest including in each area, with some of the pa
 
 ## Foundational topics
 * Programming
-* Statistics
+    * Scripting
+    * Plotting
+* Probability and statistics
     * Probability distributions
-    * Hypothesis testing 
+    * Hypothesis testing
+    * Confidence intervals
 * Algebra 
 
 ## Analytics topics
 * Advanced statistics
-* Statistical programming
+    * Experiment design
+    * A/B testing
+    * Bayesian inference
+    * Causal inference
 * Calculus
 * Visualization
 
 ## Engineering topics
 * Software engineering
+    * Collaborative development
+    * Parallel processing
+    * Processing data streams
+    * Production engineering
+    * Pipeline construction
 * Database design
+    * Data modeling
+    * Database queries
 
 ## Modeling topics
 * Machine learning methods
     * Supervised
     * Unsupervised
     * Neural networks
+    * Feature engineering
 * Algorithm design
-* Optimization 
-
+* Optimization
 
 #
 Note that for each topic and subtopic, there are many effective ways to split it into courses. The best way for your institution will depend on many factors, including length of term, hours per class, existing departmental boundaries, instuctor availability, and the rate at which your students are expected to absorb information. These recommendations assume a two-year masters program with the primary goal of preparing students for employment and continued career growth, although they can certainly be scaled up or down to fit the scope of other programs.
