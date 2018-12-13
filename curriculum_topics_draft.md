@@ -14,11 +14,11 @@ The types of data science and data centric academic programs closely mirror [the
 
 There are also **general data science programs** that cover all these areas to some degree. In addition there are quite a few **domain specific programs**, where a subset of engineering, analytics, and modeling skills specific to a given field are taught.
 
+![Data program archetypes](program_archetypes.png)
+
 The curriculum recommendations for each of these program archetypes will be different. However, all of them will share a core of foundational topics. Then analytics, engineering, and modeling-centric programs will have additional topic areas of their own. A general curriculum will include some aspects of the analytics, engineering, and modeling curricula, although perhaps not to the same depth. It is common for students to self select courses from any combination of the three areas.
 
 Curricula for domain specific programs look similar to a general program, except that topics, and even entire courses, will be focused on specific skills comment to the area. For instance, an actuarial-focused data analytics program would likely include  software tools most commonly used in insurance companies, time series and rare-event prediction algorithms, and visualization methods that are accepted throughout the insurance industry. 
-
-![Data program archetypes](program_archetypes.png)
 
 Here are the major topics we suggest including in each area, with some of the particularly important subtopics enumerated.
 
