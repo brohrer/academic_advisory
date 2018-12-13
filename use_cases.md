@@ -43,6 +43,12 @@
 
 ## Finance
 * **Loan repayment**: given an individual's financial history, predict the likelihood that they will successfully repay a loan.
+* **Loan approval**: given an individual's information (such as Self_Employed, Loan_Amount_Term, Credit_History etc), predict if a loan application will be approaved or not. 
+* **Credit card approval**: given an individual's information, predict a credit card application will be approved or not. 
+
+### Relevant data sets
+* **[Loan prediction](https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii)**
+* **[Credit card approval data set](https://archive.ics.uci.edu/ml/datasets/credit+approval)**
 
 ## Humanitarian
 
@@ -77,6 +83,7 @@
 
 ## Medicine
 * **Detecting medical conditions in radiographs**: given a set of X-rays, determine whether each is indicative of the condition of interest.
+* **Detecting malaria from blood smear**: given a patient’s blood smear predict if its malaria infected or not.
 * **Predicting liklihood of medical condition**: given values for a set of patient risk factors, predict the likelihood that a given medical condition will manifest.
 
 ### Relevant data sets
@@ -85,6 +92,7 @@
 * **[The Human Microbiome Project](https://www.hmpdacc.org/)**: genetic sequences of microbes from hundreds of healthy individuals, across several different sites on the human body: nasal passages, oral cavity, skin, gastrointestinal tract, and urogenital tract.
 * **[MIMIC-III Hospital admissions](https://mimic.physionet.org/)**: 58,000 hospital admissions for 38,645 adults and 7,875 neonates. [Access instructions](https://towardsdatascience.com/getting-access-to-mimic-iii-hospital-database-for-data-science-projects-791813feb735)(2012) 
 * **[Pima diabetes database](https://www.kaggle.com/uciml/pima-indians-diabetes-database)**: includes BMI, insulin level, age, number of pregnancies, and diabetes diagnosis from female patients of Pima Indian heritage. Hosted on Kaggle.
+* **[Malaria data set](https://ceb.nlm.nih.gov/repositories/malaria-datasets/)
 
 ## Politics
 * **Voter turnout**: given an individual's voting history, predict whether they will vote in the next election.
