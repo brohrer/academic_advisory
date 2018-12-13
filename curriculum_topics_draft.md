@@ -30,15 +30,20 @@ Here are the major topics we suggest including in each area, with some of the pa
     * Probability distributions
     * Hypothesis testing
     * Confidence intervals
+    * Statistical significance
 * Algebra 
 
 ## Analytics topics
 * Advanced statistics
     * Experiment design
+    * Statistical power
     * A/B testing
     * Bayesian inference
     * Causal inference
 * Calculus
+* Applications
+    * Cost-benefit trade-offs
+    * Practical significance
 * Visualization
 
 ## Engineering topics
@@ -53,11 +58,18 @@ Here are the major topics we suggest including in each area, with some of the pa
     * Database queries
 
 ## Modeling topics
-* Machine learning methods
-    * Supervised
-    * Unsupervised
-    * Neural networks
-    * Feature engineering
+* Supervised learning
+    * Classification
+    * Regression
+* Unsupervised learning
+    * Clustering
+    * Dimensionality reduction
+* Neural networks
+    * Multi-layer perceptrons
+    * Convolutional neural networks
+    * Recurrent neural networks
+* Feature engineering
+* Natural language processing
 * Algorithm design
 * Optimization
 
