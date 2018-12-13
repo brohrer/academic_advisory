@@ -53,9 +53,10 @@ Here are the major topics we suggest including in each area, with some of the pa
     * Processing data streams
     * Production engineering
     * Pipeline construction
+    * Debugging and unit testing
 * Database design
     * Data modeling
-    * Database queries
+    * Database queries (SQL)
 
 ## Modeling topics
 * Supervised learning
@@ -70,6 +71,7 @@ Here are the major topics we suggest including in each area, with some of the pa
     * Recurrent neural networks
 * Feature engineering
 * Natural language processing
+* Computer Vision
 * Algorithm design
 * Optimization
 
