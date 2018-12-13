@@ -1,4 +1,4 @@
-# Data science curriculum roadmap
+# Draft -- Data science curriculum roadmap  -- Draft
 
 We venture to suggest a curriculum roadmap only after receiving multiple requests. As a group, we have spent the vast majority of our time in industry, although many of us have had spent time in one academic capacity or another.  What follows is a set of broad recommendations, and it will inevitably require a lot of adjustments in each case for implementation. Given that caveat, here are our curriculum recommendations. 
 
