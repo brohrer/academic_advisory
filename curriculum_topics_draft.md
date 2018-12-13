@@ -14,7 +14,9 @@ The types of data science and data centric academic programs closely mirror [the
 
 There are also **general data science programs** that cover all these areas to some degree. In addition there are quite a few **domain specific programs**, where a subset of engineering, analytics, and modeling skills specific to a given field are taught.
 
-The curriculum recommendations for each of these program archetypes will be different. However, all of them will share a core of foundational topics.  
+The curriculum recommendations for each of these program archetypes will be different. However, all of them will share a core of foundational topics. Then analytics, engineering, and modeling-centric programs will have additional topic areas of their own. A general curriculum will include some aspects of the analytics, engineering, and modeling curricula, although perhaps not to the same depth. It is common for students to self select courses from any combination of the three areas.
+
+Curricula for domain specific programs look similar to a general program, except that topics, and even entire courses, will be focused on specific skills comment to the area. For instance, an actuarial-focused data analytics program would likely include  software tools most commonly used in insurance companies, time series prediction algorithms, and visualization methods that are accepted throughout the insurance industry. 
 
 ## Foundational topics
 1. Programming
@@ -22,7 +24,6 @@ The curriculum recommendations for each of these program archetypes will be diff
     1. Probability distributions
     1. Hypothesis testing 
 1. Algebra 
-
 
 ## Analytics topics
 1. Advanced statistics
@@ -44,10 +45,6 @@ The curriculum recommendations for each of these program archetypes will be diff
 
 
 #
-A general curriculum will include some aspects of the analytics, engineering, and modeling curricula, although perhaps not to the same depth. It is common for students to self select courses from any combination of the three areas.
-
-Curricula for domain specific programs look similar to a general program, except that topics, and even entire courses, will be focused on specific skills comment to the area. For instance, an actuarial-focused data analytics program would likely include  software tools most commonly used in insurance companies, time series prediction algorithms, and visualization methods that are accepted throughout the insurance industry. 
-
 Note that for each topic, there are many effective ways to split it into courses. The best way for your institution will depend on many factors, including length of term, hours per class, existing departmental boundaries and aptitudes, and the rate at which your students are expected to absorb information. These recommendations assume a two-year masters program with the primary goal of preparing students for employment and continued career growth, although they can certainly be scaled up or down to fit the scope of other programs.
 
 And it bears repeating, application-focused instruction will best prepare the students for professional positions. The more theory is grounded in concrete examples, and the more specific skills are exercised in the context of solving a larger problem, the deeper the student's understanding of how it works, and where to apply it. 
