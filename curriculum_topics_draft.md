@@ -18,6 +18,8 @@ The curriculum recommendations for each of these program archetypes will be diff
 
 Curricula for domain specific programs look similar to a general program, except that topics, and even entire courses, will be focused on specific skills comment to the area. For instance, an actuarial-focused data analytics program would likely include  software tools most commonly used in insurance companies, time series prediction algorithms, and visualization methods that are accepted throughout the insurance industry. 
 
+![Data program archetypes](program_archetypes.png)
+
 ## Foundational topics
 1. Programming
 1. Statistics
