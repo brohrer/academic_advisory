@@ -47,7 +47,7 @@
 * **Credit card approval**: given an individual's information, predict a credit card application will be approved or not. 
 
 ### Relevant data sets
-* **[Loan prediction](https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii)**
+* **[Loan prediction data set](https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii)**
 * **[Credit card approval data set](https://archive.ics.uci.edu/ml/datasets/credit+approval)**
 
 ## Humanitarian
@@ -92,7 +92,7 @@
 * **[The Human Microbiome Project](https://www.hmpdacc.org/)**: genetic sequences of microbes from hundreds of healthy individuals, across several different sites on the human body: nasal passages, oral cavity, skin, gastrointestinal tract, and urogenital tract.
 * **[MIMIC-III Hospital admissions](https://mimic.physionet.org/)**: 58,000 hospital admissions for 38,645 adults and 7,875 neonates. [Access instructions](https://towardsdatascience.com/getting-access-to-mimic-iii-hospital-database-for-data-science-projects-791813feb735)(2012) 
 * **[Pima diabetes database](https://www.kaggle.com/uciml/pima-indians-diabetes-database)**: includes BMI, insulin level, age, number of pregnancies, and diabetes diagnosis from female patients of Pima Indian heritage. Hosted on Kaggle.
-* **[Malaria data set](https://ceb.nlm.nih.gov/repositories/malaria-datasets/)
+* **[Malaria data set](https://ceb.nlm.nih.gov/repositories/malaria-datasets/)**
 
 ## Politics
 * **Voter turnout**: given an individual's voting history, predict whether they will vote in the next election.
