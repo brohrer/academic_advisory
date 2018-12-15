@@ -54,6 +54,8 @@ Here are the major topics we suggest including in each area, with some of the pa
     * Production engineering
     * Pipeline construction
     * Debugging and unit testing
+* Computational complexity
+* Data structures
 * Database design
     * Data modeling
     * Database queries (SQL)
