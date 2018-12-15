@@ -59,6 +59,7 @@ Here are the major topics we suggest including in each area, with some of the pa
     * Database queries (SQL)
 
 ## Modeling topics
+* Linear algebra
 * Supervised learning
     * Classification
     * Regression
