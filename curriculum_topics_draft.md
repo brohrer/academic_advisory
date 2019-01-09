@@ -31,7 +31,9 @@ Here are the major topics we suggest including in each area, with some of the pa
     * Hypothesis testing
     * Confidence intervals
     * Statistical significance
-* Algebra 
+* Algebra
+* Data ethics
+* Data interpretation and communication
 
 ## Analytics topics
 * Advanced statistics
@@ -49,11 +51,14 @@ Here are the major topics we suggest including in each area, with some of the pa
 ## Engineering topics
 * Software engineering
     * Collaborative development
-    * Parallel processing
     * Processing data streams
     * Production engineering
     * Pipeline construction
     * Debugging and unit testing
+* Software systems and infrastructure
+    * Parallel and distributed processing
+    * Client-server architectures
+    * Cloud computing
 * Computational complexity
 * Data structures
 * Database design
