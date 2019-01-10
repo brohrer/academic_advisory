@@ -11,8 +11,8 @@ Data science skill groups can be broken out as analysis, modeling, engineering, 
 Here are some representative skills in each group.
 
 
-## **Analysis** – the process of turning raw information into knowledge that can be acted on. 
-
+## **Analysis** – the process of turning raw information into insights in a fast way
+  
 ### Domain knowledge
 
 A data scientist that is familiar with an application area can understand what is possible, what is reasonable, what is unexpected, what has been tried before and with what results.
@@ -26,6 +26,10 @@ Their experience lets them **anticipate how things can fail**, catch effects tha
 Even after a problem is defined and a good quantitative question is formulated, **gathering the data** can require quite a bit of work and creativity.
 It can involve searching through known repositories, interviewing colleagues, delving deeply into documentation, and **sorting through data stores** to identify the relevant portions. If the data doesn't yet exist, research can also involve **designing and conducting experiments** to collect it.
 
+###  Exploratory analysis
+
+This type of analysis is about exploration and discovery. Rigor conclusion is not a concern which means the goal is to get insights driven by correlation not causation.  The later requires statistical skills and hence more expensive. Instead this role will help your team look at as much data as possible so that the decision-makers can get a sense of what's worth further pursuing. It often involves different ways to slice and aggregate data. An important thing to note here is that you should be careful not to get conclusion beyond the data. You don't need to write gorgeous, robust code to perform well in this role.
+
 ### Interpretation
 
 Even after it is collected, data is not yet useful. Interpretation is the art of crossing the gap between stacks of numbers and what they actually signify.
@@ -34,6 +38,12 @@ Answering the original quantitative question can require **statistical tools** l
 **Visualization** - turning data into a picture - is a powerful way to convey the message behind a table of numbers.
 For some use cases, a carefully constructed plot is all that is necessary to answer the question.  
 
+### Story telling
+
+Storytelling with data is key to deliver the insights and drive better decision making. It is the art of telling people what the numbers actually signify. It usually requires data summarization, aggregation and visualization. It is important to answer the following questions before you begin down the path of creating a data story:
+  * Who are your audience?
+  * What do you want your audience to know or do?
+  * How can you use data to help make your point?
 
 ## **Modeling** – the process of using the data we have to estimate the data we wish we had.
 
