@@ -33,6 +33,7 @@
 * **Intrusion Detection**
 * **Phishing Detection**
 * **Malware Prediction**
+* **Unified Host and Network Dataset** 
 
 ### Relevant data sets
 * **[KDD CUP 99](http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html)**: The task is to develop to detect network intrusions that protects a computer network from unauthorized users, including perhaps insiders.  The intrusion detector learning task is to build a predictive model (i.e. a classifier) capable of distinguishing between _bad_ connections, called intrusions or attacks, and _good_ normal connections. The 1998 DARPA Intrusion Detection Evaluation Program was prepared and managed by MIT Lincoln Labs. The objective was to survey and evaluate research in intrusion detection.  A standard set of data to be audited, which includes a wide variety of intrusions simulated in a military network environment, was provided.  The 1999 KDD intrusion detection contest uses a version of this dataset.
@@ -40,6 +41,8 @@
 * **[UNSW-NB15](https://www.unsw.adfa.edu.au/unsw-canberra-cyber/cybersecurity/ADFA-NB15-Datasets/)**: This data set is an advancement over the above-mentioned two data sets i.e. KDD CUP 99 and NSL-KDD. It captures more realistic features and way more instances than the other two. 
 * **[Phishing Websites](https://archive.ics.uci.edu/ml/datasets/phishing+websites)**: In this dataset, the authors shed light on the important features that have proved to be sound and effective in predicting phishing websites. In addition, they proposed some new features.
 * **[Malware Prediction](https://www.kaggle.com/c/microsoft-malware-prediction/)**
+* **[Unified Host and Network Dataset](https://csr.lanl.gov/data/2017.html)** This dataset contains a subset of (anonymized) network and computer events collected from the Los Alamos National Laboratory enterprise network over the course of approximately 90 days.  This dataset is useful because the computer host and network data are co-occurring.
+
 
 ## Economic development
 
