@@ -59,7 +59,7 @@ Allison Jones-Farmer, Miami University (farmerl2@miamioh.edu)
 
 Todd MacKenzie, Dartmouth Univeristy (Todd.A.MacKenzie@dartmouth.edu)
 
-Brandeis Marshall, Spelman University (Brandeis.Marshall@spelman.edu)
+Brandeis Marshall, Spelman College (Brandeis.Marshall@spelman.edu)
 
 Fadel Megahed, Miami University (megahefm@miamioh.edu)
 
