@@ -56,6 +56,7 @@ Here are the major topics we suggest including in each area, with some of the pa
 ## Engineering topics
 * Software engineering
     * Collaborative development
+    * Version control and reproducibility
     * Processing data streams
     * Production engineering
     * Pipeline construction
@@ -66,9 +67,15 @@ Here are the major topics we suggest including in each area, with some of the pa
     * Cloud computing
 * Computational complexity
 * Data structures
-* Database design
+* Databases
+    * Design
     * Data modeling
     * Advanced database queries
+* Data management
+    * Security
+    * Privacy
+    * Governance
+    * Regulatory compliance
 
 ## Modeling topics
 * Linear algebra
