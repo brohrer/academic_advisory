@@ -11,7 +11,7 @@ Data science skill groups can be broken out as analysis, modeling, engineering, 
 Here are some representative skills in each group.
 
 
-## **Analysis** – the process of turning raw information into knowledge that can be acted on. 
+## **Analysis** – the process of turning raw information into insights that can be acted on. 
 
 ### Domain knowledge
 
@@ -26,13 +26,21 @@ Their experience lets them **anticipate how things can fail**, catch effects tha
 Even after a problem is defined and a good quantitative question is formulated, **gathering the data** can require quite a bit of work and creativity.
 It can involve searching through known repositories, interviewing colleagues, delving deeply into documentation, and **sorting through data stores** to identify the relevant portions. If the data doesn't yet exist, research can also involve **designing and conducting experiments** to collect it.
 
+###  Exploration
+
+It's common for a data scientist to be presented with data of an unknown nature. Before it can be used to answer questions, it is first necessary to find out what type of information it contains. Exploration is the art of delving into a new data set to get a sense of its quality and extent. This is typically done by a combination of aggregation, slicing, and visualization. The emphasis is on making a quick survey, rather than diving into rigorous or exhaustive analysis. Often during this process insights emerge serendipitously.
+
 ### Interpretation
 
 Even after it is collected, data is not yet useful. Interpretation is the art of crossing the gap between stacks of numbers and what they actually signify.
 **Sumarization and aggregation** along appropriate dimensions is often required. Carefully selecting what to report is critical to clarity. Knowing what to omit is as as important as anything else.
 Answering the original quantitative question can require **statistical tools** like hypothesis testing, A/B testing, and confidence intervals.
 **Visualization** - turning data into a picture - is a powerful way to convey the message behind a table of numbers.
-For some use cases, a carefully constructed plot is all that is necessary to answer the question.  
+For some use cases, a carefully constructed plot is all that is necessary to answer the question.
+**Communication** - is the act of bridging the gap between the analyst and the decision maker. Good data storytelling requires a keen focus on three points:
+  * Who are your audience?
+  * What do you want your audience to know or do?
+  * How can you use data to help make your point?
 
 
 ## **Modeling** – the process of using the data we have to estimate the data we wish we had.
