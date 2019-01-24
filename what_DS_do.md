@@ -37,10 +37,7 @@ Even after it is collected, data is not yet useful. Interpretation is the art of
 Answering the original quantitative question can require **statistical tools** like hypothesis testing, A/B testing, and confidence intervals.
 **Visualization** - turning data into a picture - is a powerful way to convey the message behind a table of numbers.
 For some use cases, a carefully constructed plot is all that is necessary to answer the question.
-**Communication** - is the act of bridging the gap between the analyst and the decision maker. Good data storytelling requires a keen focus on three points:
-  * Who are your audience?
-  * What do you want your audience to know or do?
-  * How can you use data to help make your point?
+**Communication** is the act of bridging the gap between the analyst and the decision maker. Good data storytelling requires a keen focus on three points: 1) Who are your audience? 2) What do you want your audience to know or do? and 3) How can you use data to help make your point?
 
 
 ## **Modeling** – the process of using the data we have to estimate the data we wish we had.
