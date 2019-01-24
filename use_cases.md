@@ -42,6 +42,7 @@
 * **[Phishing Websites](https://archive.ics.uci.edu/ml/datasets/phishing+websites)**: In this dataset, the authors shed light on the important features that have proved to be sound and effective in predicting phishing websites. In addition, they proposed some new features.
 * **[Malware Target Prediction](https://www.kaggle.com/c/microsoft-malware-prediction/)**: This kaggle dataset challenges users to predict if a machine will soon be hit with malware.
 * **[Malware Classification](https://github.com/EndgameInc/ember)**: Static (without executing the file) features derived from domain experts are extracted from malicious, benign and _unlabeled_ data to detect a test set in the future.  
+* **[Unified Host and Network Dataset](https://csr.lanl.gov/data/2017.html)** This dataset contains a subset of (anonymized) network and computer events collected from the Los Alamos National Laboratory enterprise network over the course of approximately 90 days.  This dataset is useful because the computer host and network data are co-occurring.
 
 ## Economic development
 
