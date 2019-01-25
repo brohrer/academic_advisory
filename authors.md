@@ -22,6 +22,8 @@ Martha Gardner, General Electric (martha.gardner@ge.com)
 
 Shaheen Gauher, CVS Health (shaheen2007@gmail.com)
 
+Kevin Kautz, TransUnion (kevin642@gmail.com)
+
 Michelle Keim, Pluralsight (michelle-keim@pluralsight.com)
 
 Ming Li, Amazon (mli@alumni.iastate.edu)
