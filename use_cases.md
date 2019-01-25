@@ -80,6 +80,12 @@
 ### Relevant data sets
 * **[Caselaw Access Project](https://case.law/)**: includes all official, book-published United States case law — every volume designated as an official report of decisions by a court within the United States.
 
+## Machine reading comprehension
+* **Question-answering**: given a user query and candidate passages corresponding to each, the task is to mark the most relevant passage which contains the answer to the user query.
+
+### Relevant data sets
+* **[The Stanford Question Answering Dataset (SQuAD2.0)](https://rajpurkar.github.io/SQuAD-explorer/)**: Stanford Question Answering Dataset (SQuAD) is a reading comprehension dataset, consisting of questions posed by crowdworkers on a set of Wikipedia articles, where the answer to every question is a segment of text, or span, from the corresponding reading passage, or the question might be unanswerable.
+
 ## Media
 * **Content recommendation**: given a set of recently viewed documents, return a set of documents ordered by relevance.
 
