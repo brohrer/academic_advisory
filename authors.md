@@ -14,15 +14,15 @@ Isaac Faber, MatrixDS (isaac@matrixds.com)
 
 Julie Farago, Verily (farago@verily.com)
 
-Scott Genzer, RapidMiner, (sgenzer@rapidminer.com)
+Martha Gardner, General Electric (martha.gardner@ge.com)
+
+Shaheen Gauher, CVS Health (shaheen2007@gmail.com)
+
+Scott Genzer, RapidMiner (sgenzer@rapidminer.com)
 
 Ginger Holt, Facebook (gingermholt@fb.com) 
 
 Robert Horton, Microsoft (rhorton@microsoft.com)
-
-Martha Gardner, General Electric (martha.gardner@ge.com)
-
-Shaheen Gauher, CVS Health (shaheen2007@gmail.com)
 
 Kevin Kautz, TransUnion (kevin642@gmail.com)
 
