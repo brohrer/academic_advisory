@@ -14,6 +14,8 @@ Isaac Faber, MatrixDS (isaac@matrixds.com)
 
 Julie Farago, Verily (farago@verily.com)
 
+Scott Genzer, RapidMiner, (sgenzer@rapidminer.com)
+
 Ginger Holt, Facebook (gingermholt@fb.com) 
 
 Robert Horton, Microsoft (rhorton@microsoft.com)
