@@ -32,11 +32,11 @@ Ming Li, Amazon (mli@alumni.iastate.edu)
 
 Hui Lin, Netlify (longqiman@gmail.com)
 
+Thomas Nield, Southwest Airlines (thomasnield@live.com) 
+
 Julie Novak, Netflix (julien@netflix.com)
 
 Sayak Paul, DataCamp (spsayakpaul@gmail.com)
-
-Thomas Nield, Southwest Airlines (thomasnield@live.com) 
 
 Brandon Rohrer, Facebook (brohrer@fb.com)
 
