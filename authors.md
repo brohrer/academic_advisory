@@ -36,6 +36,8 @@ Julie Novak, Netflix (julien@netflix.com)
 
 Sayak Paul, DataCamp (spsayakpaul@gmail.com)
 
+Thomas Nield, Southwest Airlines (thomasnield@live.com) 
+
 Brandon Rohrer, Facebook (brohrer@fb.com)
 
 James Sorensen, LinkedIn (jasorenson@linkedin.com)
