@@ -10,6 +10,8 @@ Peter Bull, DrivenData.org (peter@drivendata.org)
 
 Danielle Dean, Microsoft (Danielle.Dean@microsoft.com)
 
+Dave Dyer, CVS Health (houseofdyer@gmail.com)
+
 Isaac Faber, MatrixDS (isaac@matrixds.com)
 
 Julie Farago, Verily (farago@verily.com)
