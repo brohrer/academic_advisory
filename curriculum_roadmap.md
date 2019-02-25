@@ -1,16 +1,16 @@
 # Data science curriculum roadmap
 
-We venture to suggest a curriculum roadmap after receiving multiple requests for one from academic partners. As a group, we have spent the vast majority of our time in industry, although many of us have had spent time in one academic capacity or another.  What follows is a set of broad recommendations, and it will inevitably require a lot of adjustments in each implementation. Given that caveat, here are our curriculum recommendations. 
+We venture to suggest a curriculum roadmap after receiving multiple requests for one from academic partners. As a group, we have spent the vast majority of our time in industry, although many of us have had spent time in one academic capacity or another.  What follows is a set of broad recommendations, and it will inevitably require a lot of adjustments in each implementation. Given that caveat, here are our curriculum recommendations.
 
 ### More application than theory
 
-We want to lead by emphasizing that the single most important factor in preparing students to apply their knowledge in an industry setting is application-centric learning. Working with realistic data to answer realistic questions is their best preparation. It grounds abstract concepts in hands-on experience, and it teaches data mechanics and data intuition at the same time, something that is impossible to do in isolation. 
+We want to lead by emphasizing that the single most important factor in preparing students to apply their knowledge in an industry setting is application-centric learning. Working with realistic data to answer realistic questions is their best preparation. It grounds abstract concepts in hands-on experience, and it teaches data mechanics and data intuition at the same time, something that is impossible to do in isolation.
 
-With that as a foundation, we present a list of topics that prepare one well to practice data science. 
+With that as a foundation, we present a list of topics that prepare one well to practice data science.
 
 ## Curriculum archetypes
 
-The types of data science and data-centric academic programs closely mirror [the major skill areas](what_DS_do.md) we have identified in our work. There are programs that emphasize **engineering**, programs that emphasize **analytics**, and programs that emphasize **modeling**.  The distinction between these is that analytics focuses on the question of what can we learn from our data, modeling focuses on the problem of estimating data we wish we had, and engineering focuses on how to make it all run faster,  more efficiently, and more robustly. 
+The types of data science and data-centric academic programs closely mirror [the major skill areas](what_DS_do.md) we have identified in our work. There are programs that emphasize **engineering**, programs that emphasize **analytics**, and programs that emphasize **modeling**.  The distinction between these is that analytics focuses on the question of what can we learn from our data, modeling focuses on the problem of estimating data we wish we had, and engineering focuses on how to make it all run faster,  more efficiently, and more robustly.
 
 There are also **general data science programs** that cover all these areas to some degree. In addition there are quite a few **domain specific programs**, where a subset of engineering, analytics, and modeling skills specific to a given field are taught.
 
@@ -18,7 +18,7 @@ There are also **general data science programs** that cover all these areas to s
 
 The curriculum recommendations for each of these program archetypes will be different. However, all of them will share some core topics. Then analytics, engineering, and modeling-centric programs will have additional topic areas of their own. A general curriculum will include some aspects of the analytics, engineering, and modeling curricula, although perhaps not to the same depth. It is common for students to self-select courses from any combination of the three areas.
 
-Curricula for domain specific programs look similar to a general program, except that topics, and even entire courses, will be focused on specific skills common to the area. For instance, an actuarial-focused data analytics program would likely include  software tools most commonly used in insurance companies, time series and rare-event prediction algorithms, and visualization methods that are accepted throughout the insurance industry. The student can best practice their skills through a project based on real domain-specific data.  Hands-on projects or internships are highly recommended.  When designing the programs, institutions may also consider offering interdisciplinary degrees and programs.  Domain specific programs often combine courses from multiple departments or colleges. 
+Curricula for domain specific programs look similar to a general program, except that topics, and even entire courses, will be focused on specific skills common to the area. For instance, an actuarial-focused data analytics program would likely include  software tools most commonly used in insurance companies, time series and rare-event prediction algorithms, and visualization methods that are accepted throughout the insurance industry. The student can best practice their skills through a project based on real domain-specific data.  Hands-on projects or internships are highly recommended.  When designing the programs, institutions may also consider offering interdisciplinary degrees and programs.  Domain specific programs often combine courses from multiple departments or colleges.
 
 Here are the major topics we suggest including in each area, with some of the particularly important subtopics enumerated.
 
@@ -38,7 +38,7 @@ Here are the major topics we suggest including in each area, with some of the pa
 * Data interpretation and communication
     * Presentation
     * Technical writing
-    * Data concepts for non-technical audiences 
+    * Data concepts for non-technical audiences
 
 ## Analytics topics
 * Advanced statistics
@@ -96,6 +96,6 @@ Here are the major topics we suggest including in each area, with some of the pa
 * Optimization
 
 #
-Note that for each topic and subtopic, there are many effective ways to split it into courses. The best way for your institution will depend on many factors, including length of term, hours per class, existing departmental boundaries, instuctor availability, and the rate at which your students are expected to absorb information. These recommendations assume a two-year masters program with the primary goal of preparing students for employment and continued career growth, although they can certainly be scaled up or down to fit the scope of other programs.
+Note that for each topic and subtopic, there are many effective ways to split it into courses. The best way for your institution will depend on many factors, including length of term, hours per class, existing departmental boundaries, instructor availability, and the rate at which your students are expected to absorb information. These recommendations assume a two-year masters program with the primary goal of preparing students for employment and continued career growth, although they can certainly be scaled up or down to fit the scope of other programs.
 
-It bears repeating that application-focused instruction will best prepare the students for professional positions. The more theory is grounded in concrete examples, and the more specific skills are exercised in the context of solving a larger problem, the deeper the student's understanding of how it works, and where to apply it. 
+It bears repeating that application-focused instruction will best prepare the students for professional positions. The more theory is grounded in concrete examples, and the more specific skills are exercised in the context of solving a larger problem, the deeper the student's understanding of how it works, and where to apply it.

@@ -22,7 +22,7 @@ Shaheen Gauher, CVS Health (shaheen2007@gmail.com)
 
 Scott Genzer, RapidMiner (sgenzer@rapidminer.com)
 
-Ginger Holt, Facebook (gingermholt@fb.com) 
+Ginger Holt, Facebook (gingermholt@fb.com)
 
 Robert Horton, Microsoft (rhorton@microsoft.com)
 
@@ -34,7 +34,7 @@ Ming Li, Amazon (mli@alumni.iastate.edu)
 
 Hui Lin, Netlify (longqiman@gmail.com)
 
-Thomas Nield, Southwest Airlines (thomasnield@live.com) 
+Thomas Nield, Southwest Airlines (thomasnield@live.com)
 
 Julie Novak, Netflix (julien@netflix.com)
 
@@ -53,7 +53,7 @@ Lydia Chan, San Jose State University (lydia.chan@sjsu.edu)
 
 Keith Drake, Dartmouth University (keith.m.drake@dartmouth.edu)
 
-Michael Fenick, Broward College and Southern New Hampshire Univeristy (mfenick@broward.edu)
+Michael Fenick, Broward College and Southern New Hampshire University (mfenick@broward.edu)
 
 Jiang Gui, Dartmouth University (Jiang.Gui@dartmouth.edu)
 
@@ -65,7 +65,7 @@ Shaniqua Jones, Dartmouth University (shaniqua.a.jones@dartmouth.edu)
 
 Allison Jones-Farmer, Miami University (farmerl2@miamioh.edu)
 
-Todd MacKenzie, Dartmouth Univeristy (Todd.A.MacKenzie@dartmouth.edu)
+Todd MacKenzie, Dartmouth University (Todd.A.MacKenzie@dartmouth.edu)
 
 Brandeis Marshall, Spelman College (Brandeis.Marshall@spelman.edu)
 

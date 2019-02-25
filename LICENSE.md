@@ -2,4 +2,4 @@
 
 ![CC0 icon](CC0_88x31.png)
 
-To the extent possible under law, the authors of the documents in the Academic Advisory repository have waived all copyright and related or neighboring rights to the documents in the Acadmic Advisory repository. This work is published from: United States.
+To the extent possible under law, the authors of the documents in the Academic Advisory repository have waived all copyright and related or neighboring rights to the documents in the Academic Advisory repository. This work is published from: United States.
