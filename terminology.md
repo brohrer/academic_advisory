@@ -37,4 +37,4 @@ but there are others, each suggesting a different emphasis
 
 **statistician**.
 
-A note of caution: when interpreting job postings, applicants would know well to look past the title to the tasks and responsibilities of the role. One unfortunate consequence of the lack of consensus around titles is that you can never be certain what a position entails based on the title.
+A note of caution: when interpreting job postings, applicants would do well to look past the title to the tasks and responsibilities of the role. One unfortunate consequence of the lack of consensus around titles is that you can never be certain what a position entails based on the title.
