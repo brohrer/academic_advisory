@@ -4,15 +4,15 @@
 * **Ad relevance**: given an individual's purchase history and demographics, return a set of advertisements ordered by relevance.
 
 ## Agriculture
-* **Yield prediction**: given crop type, soil type, soil treatment, temperature, and moisture, predict the weight in harvested grain. 
+* **Yield prediction**: given crop type, soil type, soil treatment, temperature, and moisture, predict the weight in harvested grain.
 
 ## Astronomy
 
 ### Relevant data sets
-* **[HyperLEDA](http://leda.univ-lyon1.fr/intro.html)**: a database and a collection of tools to study the physics of galaxies and cosmology. 
+* **[HyperLEDA](http://leda.univ-lyon1.fr/intro.html)**: a database and a collection of tools to study the physics of galaxies and cosmology.
 
 ## Bioinformatics
-* Given certain proeprties of a gene how one can predict its expression?
+* Given certain properties of a gene how one can predict its expression?
 * Impute the missing characteristics in a gene expression
 
 ### Relevant data sets
@@ -25,7 +25,7 @@
 * **[Enron emails](https://www.cs.cmu.edu/~./enron/)**: a set of about 500K emails from Enron executives. Enron is a US energy company that was the subject of a federal investigation.
 
 ## Customer service
-* **Request triage**: given request text and the customer's history with the company (purchases and previous communications) categorize the request by topic. 
+* **Request triage**: given request text and the customer's history with the company (purchases and previous communications) categorize the request by topic.
 
 ## Cyber Security
 * **Privacy Preservance**
@@ -38,9 +38,9 @@
 ### Relevant data sets
 * **[KDD CUP 99](http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html)**: The task is to develop to detect network intrusions that protects a computer network from unauthorized users, including perhaps insiders.  The intrusion detector learning task is to build a predictive model (i.e. a classifier) capable of distinguishing between _bad_ connections, called intrusions or attacks, and _good_ normal connections. The 1998 DARPA Intrusion Detection Evaluation Program was prepared and managed by MIT Lincoln Labs. The objective was to survey and evaluate research in intrusion detection.  A standard set of data to be audited, which includes a wide variety of intrusions simulated in a military network environment, was provided.  The 1999 KDD intrusion detection contest uses a version of this dataset.
 * **[NSL-KDD](https://www.unb.ca/cic/datasets/nsl.html)**: NSL-KDD is a data set suggested to solve some of the inherent problems of the KDD'99 data set. Although, this new version of the KDD data set still suffers from some of the problems discussed by McHugh and may not be a perfect representative of existing real networks, because of the lack of public data sets for network-based IDSs, the authors of this data set believe it still can be applied as an effective benchmark data set to help researchers compare different intrusion detection methods. Furthermore, the number of records in the NSL-KDD train and test sets are reasonable. This advantage makes it affordable to run the experiments on the complete set without the need to randomly select a small portion. Consequently, evaluation results of different research work will be consistent and comparable.
-* **[UNSW-NB15](https://www.unsw.adfa.edu.au/unsw-canberra-cyber/cybersecurity/ADFA-NB15-Datasets/)**: This data set is an advancement over the above-mentioned two data sets i.e. KDD CUP 99 and NSL-KDD. It captures more realistic features and way more instances than the other two. 
+* **[UNSW-NB15](https://www.unsw.adfa.edu.au/unsw-canberra-cyber/cybersecurity/ADFA-NB15-Datasets/)**: This data set is an advancement over the above-mentioned two data sets i.e. KDD CUP 99 and NSL-KDD. It captures more realistic features and way more instances than the other two.
 * **[Phishing Websites](https://archive.ics.uci.edu/ml/datasets/phishing+websites)**: In this dataset, the authors shed light on the important features that have proved to be sound and effective in predicting phishing websites. In addition, they proposed some new features.
-* **[Malware Target Prediction](https://www.kaggle.com/c/microsoft-malware-prediction/)**: This kaggle dataset challenges users to predict if a machine will soon be hit with malware.
+* **[Malware Target Prediction](https://www.kaggle.com/c/microsoft-malware-prediction/)**: This Kaggle dataset challenges users to predict if a machine will soon be hit with malware.
 * **[Malware Classification](https://github.com/EndgameInc/ember)**: Static (without executing the file) features derived from domain experts are extracted from malicious, benign and _unlabeled_ data to detect a test set in the future.  
 * **[Unified Host and Network Dataset](https://csr.lanl.gov/data/2017.html)** This dataset contains a subset of (anonymized) network and computer events collected from the Los Alamos National Laboratory enterprise network over the course of approximately 90 days.  This dataset is useful because the computer host and network data are co-occurring.
 
@@ -48,8 +48,8 @@
 
 ## Finance
 * **Loan repayment**: given an individual's financial history, predict the likelihood that they will successfully repay a loan.
-* **Loan approval**: given an individual's information (such as Self_Employed, Loan_Amount_Term, Credit_History etc), predict if a loan application will be approaved or not. 
-* **Credit card approval**: given an individual's information, predict a credit card application will be approved or not. 
+* **Loan approval**: given an individual's information (such as Self_Employed, Loan_Amount_Term, Credit_History etc), predict if a loan application will be approved or not.
+* **Credit card approval**: given an individual's information, predict a credit card application will be approved or not.
 
 ### Relevant data sets
 * **[Loan prediction data set](https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii)**
@@ -58,7 +58,7 @@
 ## Humanitarian
 
 ## Information
-* **Search**: given a set of search terms, return a set of documents ordered by relevance. 
+* **Search**: given a set of search terms, return a set of documents ordered by relevance.
 
 ## Insurance
 * **Disaster modeling**: given the history of disaster occurrences, predict the likelihood that a similar disaster will occur again within a given time window.
@@ -95,13 +95,13 @@
 ## Medicine
 * **Detecting medical conditions in radiographs**: given a set of X-rays, determine whether each is indicative of the condition of interest.
 * **Detecting malaria from blood smear**: given a patient’s blood smear predict if its malaria infected or not.
-* **Predicting liklihood of medical condition**: given values for a set of patient risk factors, predict the likelihood that a given medical condition will manifest.
+* **Predicting likelihood of medical condition**: given values for a set of patient risk factors, predict the likelihood that a given medical condition will manifest.
 
 ### Relevant data sets
-* **[Breast Cancer Data Set](http://archive.ics.uci.edu/ml/datasets/Breast+Cancer)**: includes information about the breast cancer screening of several female patients. Hosted on UCI. 
+* **[Breast Cancer Data Set](http://archive.ics.uci.edu/ml/datasets/Breast+Cancer)**: includes information about the breast cancer screening of several female patients. Hosted on UCI.
 * **[Diabetic retinopathy images](https://www.kaggle.com/c/diabetic-retinopathy-detection/data)**: a collection of retinal images, each labeled with its retinopathy scale score.
 * **[The Human Microbiome Project](https://www.hmpdacc.org/)**: genetic sequences of microbes from hundreds of healthy individuals, across several different sites on the human body: nasal passages, oral cavity, skin, gastrointestinal tract, and urogenital tract.
-* **[MIMIC-III Hospital admissions](https://mimic.physionet.org/)**: 58,000 hospital admissions for 38,645 adults and 7,875 neonates. [Access instructions](https://towardsdatascience.com/getting-access-to-mimic-iii-hospital-database-for-data-science-projects-791813feb735)(2012) 
+* **[MIMIC-III Hospital admissions](https://mimic.physionet.org/)**: 58,000 hospital admissions for 38,645 adults and 7,875 neonates. [Access instructions](https://towardsdatascience.com/getting-access-to-mimic-iii-hospital-database-for-data-science-projects-791813feb735)(2012)
 * **[Pima diabetes database](https://www.kaggle.com/uciml/pima-indians-diabetes-database)**: includes BMI, insulin level, age, number of pregnancies, and diabetes diagnosis from female patients of Pima Indian heritage. Hosted on Kaggle.
 * **[Malaria data set](https://ceb.nlm.nih.gov/repositories/malaria-datasets/)**
 
@@ -130,7 +130,7 @@
 
 ## Transportation
 * **Predictive maintenance**: given a vehicle's usage and maintenance history, predict a given failure is likely to next occur.
-* **On-Time Performance**: Identify problematic parts of a transportation network causing delays, the root causes, and recommendations to improve on-time performance. 
+* **On-Time Performance**: Identify problematic parts of a transportation network causing delays, the root causes, and recommendations to improve on-time performance.
 
 ### Relevant data sets
 * **[SBB Swiss Federal Railways On-Time Performance](https://github.com/crowdAI/train-schedule-optimisation-challenge-starter-kit)**: CrowdAI challenge and data set to optimize punctuality of train schedules

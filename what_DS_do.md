@@ -11,14 +11,14 @@ Data science skill groups can be broken out as analysis, modeling, engineering, 
 Here are some representative skills in each group.
 
 
-## **Analysis** – the process of turning raw information into insights that can be acted on. 
+## **Analysis** – the process of turning raw information into insights that can be acted on.
 
 ### Domain knowledge
 
 A data scientist that is familiar with an application area can understand what is possible, what is reasonable, what is unexpected, what has been tried before and with what results.
 They know how data is gathered, what it represents, the ways in which it is likely to be misrepresented.
 This enables them to **translate a business need to a question** with a quantitative answer.
-Their grasp of the big picture helps them understand what is most important when **making accuracy-cost-time trade-offs**. 
+Their grasp of the big picture helps them understand what is most important when **making accuracy-cost-time trade-offs**.
 Their experience lets them **anticipate how things can fail**, catch effects that were not accounted for, and identify which assumptions are faulty. Then, when the analysis is complete, their domain knowledge helps them **report results** in an audience-appropriate way.
 
 ### Research
@@ -33,7 +33,7 @@ It's common for a data scientist to be presented with data of an unknown nature.
 ### Interpretation
 
 Even after it is collected, data is not yet useful. Interpretation is the art of crossing the gap between stacks of numbers and what they actually signify.
-**Sumarization and aggregation** along appropriate dimensions is often required. Carefully selecting what to report is critical to clarity. Knowing what to omit is as as important as anything else.
+**Summarization and aggregation** along appropriate dimensions is often required. Carefully selecting what to report is critical to clarity. Knowing what to omit is as as important as anything else.
 Answering the original quantitative question can require **statistical tools** like hypothesis testing, A/B testing, and confidence intervals.
 **Visualization** - turning data into a picture - is a powerful way to convey the message behind a table of numbers.
 For some use cases, a carefully constructed plot is all that is necessary to answer the question.
@@ -61,7 +61,7 @@ Another is to find a few complex traits that concisely describe a thing, the way
 ### Custom algorithm development
 
 In many cases, out of the box algorithms aren't adequate for answering the question that has been posed. This may be because there isn't enough data available to make use of naive machine learning methods, because the question being asked doesn't fit neatly within the specifications of existing tools, or because some *a priori* domain knowledge can be brought to bear.
-Sometimes exsiting machine learning methods need to be modified outside of their pre-packaged boundariesto accommodate the subtleties of the problem at hand.
+Sometimes existing machine learning methods need to be modified outside of their pre-packaged boundaries to accommodate the subtleties of the problem at hand.
 
 It is common to do some preparation work on data, even when using standard algorithms. **Feature engineering** is the practice of using existing features in a domain-savvy way to create other, more useful features. It can be as simple as subtracting a departure time from an arrival time to get transit time, or as complex as calculating the magnitude of two-dimensional spatial frequency components. It is not quite algorithm development, but it is algorithm replacement in the sense that it does some of the work of deep neural networks. It is particularly useful when data is limited and features cannot be learned by more sophisticated methods.
 
@@ -71,13 +71,13 @@ It is common to do some preparation work on data, even when using standard algor
 
 ### Data management
 
-When working with more data than can comfortably fit in memory, databases quickly become necessary, and the design, creation, maintenance, all other aspects of **database management** becomes an indispensible skill. **Pipeline construction**, that is, writing analyses that run on a regular basis, possibly across many processors, is also an invaluable skill for dealing with larger amounts of data.
+When working with more data than can comfortably fit in memory, databases quickly become necessary, and the design, creation, maintenance, all other aspects of **database management** becomes an indispensable skill. **Pipeline construction**, that is, writing analyses that run on a regular basis, possibly across many processors, is also an invaluable skill for dealing with larger amounts of data.
 
-Automated **data collection** is another common task. It includes instrumentation, logging, web scraping, API queries, and interrogating data streams. 
+Automated **data collection** is another common task. It includes instrumentation, logging, web scraping, API queries, and interrogating data streams.
 
 ### Production
 
-When models and analyses are intended for use within a product or an internal tool, extra steps are required. Manual data handling steps must be replaced with **automation**. 
+When models and analyses are intended for use within a product or an internal tool, extra steps are required. Manual data handling steps must be replaced with **automation**.
 **System integration** is necessary in order to work smoothly with the rest of the existing stack.
 **Robustification** measures, such as rigorous error handling, fault tolerance, and graceful degradation keeps the system running smoothly and users happy.
 
@@ -103,7 +103,5 @@ The problem of how to handle **missing values** is particularly ticklish, requir
 
 ### Data handling
 
-After data is unified and cleaned up for use, it is usually still necessary to select subsets of it or combine it with other data. 
+After data is unified and cleaned up for use, it is usually still necessary to select subsets of it or combine it with other data.
 **Querying and slicing** a data set to get just the observations or features needed is typically necessary. **Joining** two data sets is a powerful way to open up new insights, but requires careful thought to make the join meaningful and to do it in a way that doesn't result in an excessive computational burden.
-
-
