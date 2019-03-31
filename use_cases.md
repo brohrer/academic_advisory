@@ -104,6 +104,7 @@
 * **[MIMIC-III Hospital admissions](https://mimic.physionet.org/)**: 58,000 hospital admissions for 38,645 adults and 7,875 neonates. [Access instructions](https://towardsdatascience.com/getting-access-to-mimic-iii-hospital-database-for-data-science-projects-791813feb735)(2012)
 * **[Pima diabetes database](https://www.kaggle.com/uciml/pima-indians-diabetes-database)**: includes BMI, insulin level, age, number of pregnancies, and diabetes diagnosis from female patients of Pima Indian heritage. Hosted on Kaggle.
 * **[Malaria data set](https://ceb.nlm.nih.gov/repositories/malaria-datasets/)**
+* **[Chronic_Kidney_Disease Data Set](https://archive.ics.uci.edu/ml/datasets/chronic_kidney_disease)**: Given a set of features like age, blood_pressure, rbc_count and so on of an individual the task is predict the individual has chronic kidney disease. 
 
 ## Politics
 * **Voter turnout**: given an individual's voting history, predict whether they will vote in the next election.
