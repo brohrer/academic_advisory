@@ -2,6 +2,8 @@
 
 Ahmad Al-Kashef, Teradata (ahmad.alkashef@teradata.com)
 
+Bastin Robins, CleverInsight (robin@cleverinsight.co)
+
 Hyrum Anderson, Endgame (hyrumanderson@gmail.com)
 
 Angela Bassa, iRobot ([angelabassa.com/contact](https://www.angelabassa.com/contact))

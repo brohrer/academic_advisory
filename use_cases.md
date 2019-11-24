@@ -57,6 +57,11 @@
 
 ## Humanitarian
 
+## Healthcare
+* **Infectious Disease Survelliance**: Find the spread of disease across geography using social media data.
+* **Patient Segmentation**: Understanding of different segments of patients using different triats.
+
+
 ## Information
 * **Search**: given a set of search terms, return a set of documents ordered by relevance.
 
